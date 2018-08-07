@@ -31,7 +31,7 @@
       <link rel="stylesheet" href="assets/css/index.css">
       <link rel="stylesheet" href="assets/thirdparty/fancybox3/dist/jquery.fancybox.min.css">
       <link rel="stylesheet" href="../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-      <link rel="stylesheet" href="css/style.css">
+      <link rel="stylesheet" href="css/style.css?v=1">
       <style>
          .fancybox-close{
          background-image: url(../storage.googleapis.com/mthai-dfp/close.png);
@@ -47,15 +47,15 @@
             <div class="row">
             </div>
          </div>
-         <div class="header w-100">
-            <div id="header-bg" class="text-center py-4 header-bg-0">
+         <div class="header w-100 ">
+            <div id="" class="text-center py-4 " style="background: url('css/images/head.png') no-repeat top fixed;background-size: 100% 80%;">
                <img src="images/logo.png" alt="" class="img-fluid">
-               <div class="bg-index-btns">
+               <!-- <div class="bg-index-btns">
                   <div class="bg-index-btn active"></div>
                   <div class="bg-index-btn"></div>
                   <div class="bg-index-btn"></div>
                   <div class="bg-index-btn"></div>
-               </div>
+               </div> -->
             </div>
          </div>
          <?php

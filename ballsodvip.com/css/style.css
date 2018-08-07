@@ -12713,7 +12713,7 @@ img.jssocials-share-logo {
 }
 
 body {
-	background: url("../images/background.jpg") no-repeat 50% fixed;
+	background: url("images/bg.png") no-repeat 50% fixed;
 	background-size: 100% 100%
 }
 
@@ -12817,7 +12817,9 @@ a.btn-warp:hover {
 .header .header-bg-3 {
 	background: url("images/slider-background-3.png") no-repeat top fixed
 }
-
+.header .header-bg-cus {
+	background: url("images/head.png") no-repeat top fixed
+}
 .header #header-bg {
 	background-size: 100% 80%
 }
