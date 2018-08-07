@@ -58,13 +58,9 @@
                </div>
             </div>
          </div>
-         
-         <div class="row">
          <?php
          include "../getListResult.php";
          ?>
-            </div>
-         
          <div class="py-3" style="background: #000;">
             <hr class="my-3" style="border-color: #fff;border-top: 3px solid white;">
             <div class="row mx-0 text-white">
