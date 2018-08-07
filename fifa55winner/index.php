@@ -19,15 +19,7 @@
       <!-- Style Sheets -->
       <link href="font.css" rel="stylesheet" type="text/css" />
       <!-- Styling -->
-      <link href="style/core.css" rel="stylesheet">
-      <script>
-         var txt_blank    = 'กรุณากรอกข้อมูลให้ครบ';
-         var txt_tel      = 'กรุณากรอกหมายเลขโทรศัพท์ให้ถูกต้อง';
-         var txt_success  = 'สำเร็จ !! กรุณารอการติดต่อกลับจากเจ้าหน้าที่';
-         var txt_fail     = 'เกิดข้อผิดพลาดในการส่งข้อมูล';
-         var exits_tel    = 'ท่านได้ใช้หมายเลขนี้สมัครสมาชิกแล้ว';
-      </script>
-      
+      <link href="style/core.css" rel="stylesheet">     
    </head>
    <body>
       <!-- MAIN PAGE CONTAINER -->
@@ -129,7 +121,7 @@
       <div class="col-sm-12 col-md-9 body-sub screen-w-right-in">
          <div class="clearfix post body-main-sub">
             <div class="body-main-sub-in listf-1">
-               <?php include "createLink.php" ;?>
+               
             </div>
          </div>
       </div>
