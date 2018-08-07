@@ -115,34 +115,34 @@
          <div class="outter-wrapper body-wrapper regist-theme">
             <div class="wrapper ad-pad-first clearfix regist-theme" >
                <div class="outter-wrapper body-wrapper" style="min-height: 430px  !important;">
-   <div class="wrapper blog-roll ad-pad clearfix">
-      <!-- Start Main Column  -->
-      <div class="col-sm-12 col-md-9 body-sub screen-w-right-in">
-         <div class="clearfix post body-main-sub">
-            <div class="body-main-sub-in listf-1">
-               <?php include "createLink.php"; ?>
-            </div>
-         </div>
-      </div>
-      <!-- Start Right Sidebar  -->
-      <aside class="col-sm-12 col-md-3 screen-w-right-2">
-         <div class="widget">
-            <div class="widget-ads-r wow bounceIn" data-wow-delay="1s" style="text-align: -webkit-center; visibility: visible; animation-delay: 1s; animation-name: bounceIn;">
-               <img src="images/subpage/ads-right.png" class="img-responsive">
-            </div>
-            <h1 class="h-text-contact contact-sub-left  wow zoomIn" style="visibility: visible; animation-name: zoomIn;">ติดต่อเรา</h1>
-            <ul class="widget-list contact-list">
-               <li class="wow zoomInRight" data-wow-delay="0.4s" onclick="window.open('https://line.me/ti/p/', '_blank')" style="visibility: visible; animation-delay: 0.4s; animation-name: zoomInRight;"><img src="images/contact/svg/line.svg" style="width: 40px;"> 		<span class="contact-list-style"></span></li>
-               <li class="wow zoomInRight" data-wow-delay="0.6s" onclick="window.open('https://www.facebook.com/<?=$fifa55Main;?>', '_blank')" style="visibility: visible; animation-delay: 0.6s; animation-name: zoomInRight;"><img src="images/contact/svg/facebook.svg" style="width: 40px;"> 	<span class="contact-list-style"> <?=$fifa55Main;?></span></li>
-               <li class="wow zoomInRight" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: zoomInRight;"><img src="images/contact/svg/email.svg" style="width: 40px;"> 		<span class="contact-list-style"><?=$fifa55Main;?>@gmail.com </span></li>
-               <li class="wow zoomInRight" data-wow-delay="1s" style="visibility: visible; animation-delay: 1s; animation-name: zoomInRight;"><img src="images/contact/svg/internet.svg" style="width: 40px;"> 	<span class="contact-list-style">www.<?=$fifa55Main;?>.com</span></li>
-            </ul>
-         </div>
-         <div>
-         </div>
-      </aside>
-   </div>
-</div>
+							   <div class="wrapper blog-roll ad-pad clearfix">
+							      <!-- Start Main Column  -->
+							      <div class="col-sm-12 col-md-9 body-sub screen-w-right-in">
+							         <div class="clearfix post body-main-sub">
+							            <div class="body-main-sub-in listf-1">
+							               <?php include "../createLink.php"; ?>
+							            </div>
+							         </div>
+							      </div>
+							      <!-- Start Right Sidebar  -->
+							      <aside class="col-sm-12 col-md-3 screen-w-right-2">
+									   <div class="widget">
+									      <div class="widget-ads-r wow bounceIn" data-wow-delay="1s" style="text-align: -webkit-center; visibility: visible; animation-delay: 1s; animation-name: bounceIn;">
+									         <img src="images/subpage/ads-right.png" class="img-responsive">
+									      </div>
+									      <h1 class="h-text-contact contact-sub-left  wow zoomIn" style="visibility: visible; animation-name: zoomIn;">ติดต่อเรา</h1>
+									      <ul class="widget-list contact-list">
+									         <li class="wow zoomInRight" data-wow-delay="0.4s" onclick="window.open('https://line.me/ti/p/@<?=$fifa55Main;?>', '_blank')" style="visibility: visible; animation-delay: 0.4s; animation-name: zoomInRight;"><img src="images/contact/svg/line.svg" style="width: 40px;"> 		<span class="contact-list-style">@<?=$fifa55Main;?></span></li>
+									         <li class="wow zoomInRight" data-wow-delay="0.6s" onclick="window.open('https://www.facebook.com/<?=$fifa55Main;?>', '_blank')" style="visibility: visible; animation-delay: 0.6s; animation-name: zoomInRight;"><img src="images/contact/svg/facebook.svg" style="width: 40px;"> 	<span class="contact-list-style"> <?=$fifa55Main;?></span></li>
+									         <li class="wow zoomInRight" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: zoomInRight;"><img src="images/contact/svg/email.svg" style="width: 40px;"> 		<span class="contact-list-style"><?=$fifa55Main;?>@gmail.com </span></li>
+									         <li class="wow zoomInRight" data-wow-delay="1s" style="visibility: visible; animation-delay: 1s; animation-name: zoomInRight;"><img src="images/contact/svg/internet.svg" style="width: 40px;"> 	<span class="contact-list-style">www.<?=$fifa55Main;?>.com</span></li>
+									      </ul>
+									   </div>
+									   <div>
+									   </div>
+										</aside>
+							   </div>
+							</div>
             </div>
          </div>
          <div class="outter-wrapper body-wrapper wrapper-services">
