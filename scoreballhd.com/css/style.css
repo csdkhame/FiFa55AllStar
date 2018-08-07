@@ -9427,8 +9427,8 @@ a.text-gray-dark:hover {
 
 @font-face {
 	font-family: FontAwesome;
-	src: url(../fonts/vendor/font-awesome/fontawesome-webfont2967.eot?674f50d287a8c48dc19ba404d20fe713);
-	src: url(../fonts/vendor/font-awesome/fontawesome-webfontfb78.eot?674f50d287a8c48dc19ba404d20fe713?#iefix&v=4.7.0) format("embedded-opentype"), url(../fonts/vendor/font-awesome/fontawesome-webfontbb99.html?af7ae505a9eed503f8b8e6982036873e) format("woff2"), url(../fonts/vendor/font-awesome/fontawesome-webfontce29.woff?fee66e712a8a08eef5805a46892932ad) format("woff"), url(../fonts/vendor/font-awesome/fontawesome-webfont1bb7.ttf?b06871f281fee6b241d60582ae9369b9) format("truetype"), url(../fonts/vendor/font-awesome/fontawesome-webfont2f98.svg?912ec66d7572ff821749319396470bde#fontawesomeregular) format("svg");
+	src: url(/fonts/vendor/font-awesome/fontawesome-webfont.eot?674f50d287a8c48dc19ba404d20fe713);
+	src: url(/fonts/vendor/font-awesome/fontawesome-webfont.eot?674f50d287a8c48dc19ba404d20fe713?#iefix&v=4.7.0) format("embedded-opentype"), url(/fonts/vendor/font-awesome/fontawesome-webfont.woff2?af7ae505a9eed503f8b8e6982036873e) format("woff2"), url(/fonts/vendor/font-awesome/fontawesome-webfont.woff?fee66e712a8a08eef5805a46892932ad) format("woff"), url(/fonts/vendor/font-awesome/fontawesome-webfont.ttf?b06871f281fee6b241d60582ae9369b9) format("truetype"), url(/fonts/vendor/font-awesome/fontawesome-webfont.svg?912ec66d7572ff821749319396470bde#fontawesomeregular) format("svg");
 	font-weight: 400;
 	font-style: normal
 }
@@ -12713,8 +12713,7 @@ img.jssocials-share-logo {
 }
 
 body {
-/*	background: url("../images/background.jpg") no-repeat 50% fixed;*/
-	background: url("../images/bg-5.png") no-repeat 50% fixed;
+	background: url("/images/background.jpg") no-repeat 0 0 fixed;
 	background-size: 100% 100%
 }
 
@@ -12752,6 +12751,22 @@ body {
 	font-weight: 400;
 	src: local("Kanit Regular"), local("Kanit-Regular"), url(https://fonts.gstatic.com/s/kanit/v3/nKKZ-Go6G5tXcraVGwA.woff2) format("woff2");
 	unicode-range: u+00??, u+0131, u+0152-0153, u+02bb-02bc, u+02c6, u+02da, u+02dc, u+2000-206f, u+2074, u+20ac, u+2122, u+2191, u+2193, u+2212, u+2215, u+feff, u+fffd
+}
+
+html {
+	font-size: .8rem
+}
+
+@media screen and (min-width:768px) {
+	html {
+		font-size: .9rem
+	}
+}
+
+@media screen and (min-width:992px) {
+	html {
+		font-size: 1rem
+	}
 }
 
 .text-indent-3 {
@@ -12819,10 +12834,6 @@ a.btn-warp:hover {
 	background: url("images/slider-background-3.png") no-repeat top fixed
 }
 
-.header .header-bg-ct {
-	background: url("images/5.png") no-repeat top fixed
-}
-
 
 .header #header-bg {
 	background-size: 100% 80%
@@ -12838,7 +12849,7 @@ a.btn-warp:hover {
 
 .table-live {
 	width: 100%;
-	table-layout: fixed;
+	white-space: nowrap;
 	font-size: 1rem
 }
 
