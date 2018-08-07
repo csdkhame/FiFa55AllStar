@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php
-      $fifa55Main = 'FIFA55EURO';
+      $fifa55Main = 'FIFA55BOX';
       ?>
 <html class="no-js">
    <head>
@@ -8,8 +8,7 @@
       <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
       <meta content="black" name="apple-mobile-web-app-status-bar-style">
       <title><?=$fifa55Main;?> เว็บพนันบอล คาสิโนออนไลน์ อันดับ 1 </title>
-      <link rel="icon" href="images/logoicon.html">
-      <base  />
+      <link rel="icon" href="images/favicon.png" type="image/x-icon">
       <meta name="description" content="เว็บ แทงบอลออนไลน์ อันดับ 1 ต้อง <?=$fifa55Main;?> ให้บริการ แทงบอล แทงหวย คาสิโน fifa55 อย่างเป็นทางการให้บริการ 24 ชม." />
       <META NAME="ROBOTS" CONTENT="INDEX,FOLLOW" />
       <META NAME="KEYWORDS" CONTENT="แทงบอลออนไลน์,แทงบอล,fifa55,fifa555,พนันบอล,เว็บพนัน,รับแทงบอล,รับแทงบอลออนไลน์ 088-207-5555" />
@@ -43,9 +42,8 @@
                   </div>
                   <div class="pre-header-right right">
                      <ul class="clearfix">
-                        
-                        <span class="pipe-bar">| &nbsp;</span>
-                        <li><a href="https://www.fifa55.com/">ทางเข้าเล่น</a></li>
+                        <span class="pipe-bar"> &nbsp;</span>
+                        <li><a href="">ทางเข้าเล่น</a></li>
                      </ul>
                   </div>
                </div>
@@ -58,9 +56,10 @@
                <header class="header">
                   <div class="header__logo">
                      <a class="logo" href="">
-                     <img class="img-responsive" src="images/logo/logo.png" alt="FiFA55BOX" style=" margin-top: -12px;">
+                     <img class="img-responsive" src="images/logo/55box.png" alt="FiFA55BOX" style=" margin-top: -12px;">
                      </a>
-                     <div id="mobile-header">
+                     <!--<div id="mobile-header">-->
+                     <div style="display: none;">
                         <a id="responsive-menu-button" href="#sidr-main">
                            <em class="fa fa-bars" style="font-size: 45px;color: #fdfdfd;"></em>  
                         </a>
@@ -95,7 +94,7 @@
                      </li>
                   </ul>
                   <hr class="hr-pro">
-                  <a href="https://www.fifa55.com/" class="btn btn-danger btn-lg pull-right Parent slideInUp animated" data-animate-offset="50" role="button" id="more-promotion"> <i class="fa fa-plus-circle promo-btn" aria-hidden="true"></i> โปรโมชั่นเพิ่มเติม</a>
+                  <a href="" class="btn btn-danger btn-lg pull-right Parent slideInUp animated" data-animate-offset="50" role="button" id="more-promotion"> <i class="fa fa-plus-circle promo-btn" aria-hidden="true"></i> โปรโมชั่นเพิ่มเติม</a>
                </div>
             </div>
          </div>
@@ -129,39 +128,7 @@
       <div class="col-sm-12 col-md-9 body-sub screen-w-right-in">
          <div class="clearfix post body-main-sub">
             <div class="body-main-sub-in listf-1">
-               <p><span style="color:#c1212c"><span style="font-size:42px"><span style="font-family:pslxkittithadabold">อัพเดททางเข้าเล่น</span></span></span></p>
-               <p><span style="font-size:26px"><span style="font-family:thsarabunnewregular">&nbsp; &nbsp; &nbsp; &nbsp;ทางเข้า FIFA55 หากกรณีที่ทางเข้าอันเดิมที่ท่านสมาชิกใช้อยู่ เกิดขัดข้องเข้าไม่ได้หรือทางเว็บ FIFA55&nbsp;มีการปรับปรุงทางเข้าใหม่ เราทีมงาน <?=$fifa55Main;?>.COM&nbsp;ก็จะทำการอัพเดททางเข้าอันใหม่ไว้ที่หน้าเพจนี้</span></span></p>
-               <ul>
-               <?php
-               $arrLink = array('fifa55winner'=>'www.fifa55winner.com','fifa55euro'=>'www.fifa55euro.com','fifa55cup'=>'www.fifa55cup.com','fifa55world'=>'www.fifa55world.com','fifa55shoot'=>'www.fifa55shoot.com','fifa55box'=>'www.fifa55box.com');
-               ?>
-               <?php
-               $i=1;
-               foreach($arrLink as $name=>$link){
-               ?>
-                  <li>
-                  <span style="font-size:28px">
-                  <span style="font-family:pslxkittithadabold">
-                  <span style="font-size:26px">
-                  <span style="font-family:thaisanslite">
-                  ทางเข้าที่ <?=$i;?> :
-                  <span style="font-size:28px">&nbsp;</span>
-                  </span>
-                  <span style="font-size:28px">
-                  <span style="font-family:thsarabunnewregular">
-                  <a href="http://<?=$name;?>.com" target="_blank">
-                  <span style="color:#000080"><?=$link;?></span>
-                  </a>
-                  </span>
-                  </span>
-                  </span>
-                  </span>
-                  </span>
-                  </li>
-                  <?php $i++;} ?>
-               </ul>
-               <p>&nbsp;</p>
-               <p>&nbsp;</p>
+               <?php include "createLink.php"; ?>
             </div>
          </div>
       </div>
@@ -432,7 +399,7 @@
                <div class="row">
                   <div class="col-xs-12 col-md-4">
                      <p>
-                        <img alt="logo-footer" class="logo" src="images/logo/logo.png" style="width: 204px;">
+                        <img alt="logo-footer" class="logo" src="images/logo/55box.png" style="width: 204px;">
                      </p>
                      
                   </div>
@@ -476,7 +443,8 @@
          </div>
          <!-- /.footer-bottom -->
       </footer>
-      <div class="visible-xs">
+      <!--<div class="visible-xs">-->
+      <div style="display: none;">
          <ul class="footer-fix">
             <li><a href="tel:"><img src="images/contact/svg/mobile-phone2.svg"></a></li>
             <li><a href="https://line.me/ti/p/" target="_blank"><img src="images/contact/svg/line.svg" alt="get_option('line_name')"></a></li>

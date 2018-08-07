@@ -8,8 +8,7 @@
       <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
       <meta content="black" name="apple-mobile-web-app-status-bar-style">
       <title><?=$fifa55Main;?> เว็บพนันบอล คาสิโนออนไลน์ อันดับ 1 </title>
-      <link rel="icon" href="images/logoicon.html">
-      <base  />
+      <link rel="icon" href="images/logo.png" type="image/x-icon">
       <meta name="description" content="เว็บ แทงบอลออนไลน์ อันดับ 1 ต้อง <?=$fifa55Main;?> ให้บริการ แทงบอล แทงหวย คาสิโน fifa55 อย่างเป็นทางการให้บริการ 24 ชม." />
       <META NAME="ROBOTS" CONTENT="INDEX,FOLLOW" />
       <META NAME="KEYWORDS" CONTENT="แทงบอลออนไลน์,แทงบอล,fifa55,fifa555,พนันบอล,เว็บพนัน,รับแทงบอล,รับแทงบอลออนไลน์ 088-207-5555" />
@@ -35,9 +34,8 @@
                   </div>
                   <div class="pre-header-right right">
                      <ul class="clearfix">
-                        
-                        <span class="pipe-bar">| &nbsp;</span>
-                        <li><a href="https://www.fifa55.com/">ทางเข้าเล่น</a></li>
+                        <span class="pipe-bar"> &nbsp;</span>
+                        <li><a href="">ทางเข้าเล่น</a></li>
                      </ul>
                   </div>
                </div>
@@ -52,7 +50,8 @@
                      <a class="logo" href="">
                      <img class="img-responsive" src="images/logo/logo.png" alt="FiFA55BOX" style=" margin-top: -12px;">
                      </a>
-                     <div id="mobile-header">
+                     <!--<div id="mobile-header">-->
+                     <div style="display: none;">
                         <a id="responsive-menu-button" href="#sidr-main">
                            <em class="fa fa-bars" style="font-size: 45px;color: #fdfdfd;"></em>  
                         </a>
@@ -87,7 +86,7 @@
                      </li>
                   </ul>
                   <hr class="hr-pro">
-                  <a href="https://www.fifa55.com/" class="btn btn-danger btn-lg pull-right Parent slideInUp animated" data-animate-offset="50" role="button" id="more-promotion"> <i class="fa fa-plus-circle promo-btn" aria-hidden="true"></i> โปรโมชั่นเพิ่มเติม</a>
+                  <a href="" class="btn btn-danger btn-lg pull-right Parent slideInUp animated" data-animate-offset="50" role="button" id="more-promotion"> <i class="fa fa-plus-circle promo-btn" aria-hidden="true"></i> โปรโมชั่นเพิ่มเติม</a>
                </div>
             </div>
          </div>
@@ -121,7 +120,7 @@
       <div class="col-sm-12 col-md-9 body-sub screen-w-right-in">
          <div class="clearfix post body-main-sub">
             <div class="body-main-sub-in listf-1">
-               
+               <?php include "createLink.php"; ?>
             </div>
          </div>
       </div>
@@ -436,7 +435,8 @@
          </div>
          <!-- /.footer-bottom -->
       </footer>
-      <div class="visible-xs">
+      <!--<div class="visible-xs">-->
+      <div style="display: none;">
          <ul class="footer-fix">
             <li><a href="tel:"><img src="images/contact/svg/mobile-phone2.svg"></a></li>
             <li><a href="https://line.me/ti/p/" target="_blank"><img src="images/contact/svg/line.svg" alt="get_option('line_name')"></a></li>
