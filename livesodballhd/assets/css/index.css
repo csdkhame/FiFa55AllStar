@@ -1,0 +1,13 @@
+body {
+  min-width: 1160px;
+}
+.container {
+    width: 1160px !important;
+}
+.main-navbar {
+  display: table;
+}
+.main-navbar a.navbar-item {
+  width: auto;
+  display: table-cell;
+}
