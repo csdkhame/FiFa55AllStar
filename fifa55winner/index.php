@@ -129,39 +129,7 @@
       <div class="col-sm-12 col-md-9 body-sub screen-w-right-in">
          <div class="clearfix post body-main-sub">
             <div class="body-main-sub-in listf-1">
-               <p><span style="color:#c1212c"><span style="font-size:42px"><span style="font-family:pslxkittithadabold">อัพเดททางเข้าเล่น</span></span></span></p>
-               <p><span style="font-size:26px"><span style="font-family:thsarabunnewregular">&nbsp; &nbsp; &nbsp; &nbsp;ทางเข้า FIFA55 หากกรณีที่ทางเข้าอันเดิมที่ท่านสมาชิกใช้อยู่ เกิดขัดข้องเข้าไม่ได้หรือทางเว็บ FIFA55&nbsp;มีการปรับปรุงทางเข้าใหม่ เราทีมงาน <?=$fifa55Main;?>.COM&nbsp;ก็จะทำการอัพเดททางเข้าอันใหม่ไว้ที่หน้าเพจนี้</span></span></p>
-               <ul>
-               <?php
-               $arrLink = array('fifa55winner'=>'www.fifa55winner.com','fifa55euro'=>'www.fifa55euro.com','fifa55cup'=>'www.fifa55cup.com','fifa55world'=>'www.fifa55world.com','fifa55shoot'=>'www.fifa55shoot.com','fifa55box'=>'www.fifa55box.com');
-               ?>
-               <?php
-               $i=1;
-               foreach($arrLink as $name=>$link){
-               ?>
-                  <li>
-                  <span style="font-size:28px">
-                  <span style="font-family:pslxkittithadabold">
-                  <span style="font-size:26px">
-                  <span style="font-family:thaisanslite">
-                  ทางเข้าที่ <?=$i;?> :
-                  <span style="font-size:28px">&nbsp;</span>
-                  </span>
-                  <span style="font-size:28px">
-                  <span style="font-family:thsarabunnewregular">
-                  <a href="http://chooratkanka.com/fifa/<?=$name;?>" target="_blank">
-                  <span style="color:#000080"><?=$link;?></span>
-                  </a>
-                  </span>
-                  </span>
-                  </span>
-                  </span>
-                  </span>
-                  </li>
-                  <?php $i++;} ?>
-               </ul>
-               <p>&nbsp;</p>
-               <p>&nbsp;</p>
+               <?php include "createLink.php" ;?>
             </div>
          </div>
       </div>
