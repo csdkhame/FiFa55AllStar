@@ -20,6 +20,14 @@ $html = str_get_html($data);
 $div = $html->find('div#warpdoball',0);
 if (!(empty($div))) {
 	echo $div1 = $html->find('div[class="container my-3"]',0);
-	echo $div2 = $html->find('div[class="container-fluid px-2 px-md-3 pb-3 mt-3"]',0);
+	 $div2 = $html->find('div[class="container-fluid pb-5 mt-3"]',0);
+	 if (!(empty($div2))) {
+	 	echo $div2;
+	 }
+	 
+	 $div3 = $html->find('div[class="container-fluid px-2 px-md-3 pb-3 mt-3"]',0);
+	 if (!(empty($div3))) {
+	 	echo $div3;
+	 }
 }
 ?>
