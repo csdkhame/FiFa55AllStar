@@ -58,114 +58,13 @@
                </div>
             </div>
          </div>
-         <div class="container">
-            <div class="container-fluid my-3">
-               <div class="container">
-                  <h1 class="h2 text-orange text-kanit">ดูบอลสด ฟุตบอลโลก2018 ดูบอลออนไลน์ อัพเดทเร็วที่สุด</h1>
-                  <p class="text-dark text-indent-3 text-kanit" style="font-size: 1.2rem;">
-                     ศูนย์รวมลิงค์ดูบอลสด ดูฟุตบอลโลก2018 ดูบอลออนไลน์ผ่านเน็ตฟรีๆ ทุกลีกและอัพเดทลิงค์รวดเร็วที่สุดตลอด 24 ชั่วโมง ดูบอลได้ทั้งมือถือและคอมพิวเตอร์ ด้วยขั้นตอนง่ายๆ เพียงแค่คลิกเดียวโดยลิงค์ดูบอลสด จะอัพเดทก่อนบอลเตะประมาณ 10-15 นาที
-                  </p>
-               </div>
+         
+         <div class="row">
+         <?php
+         include "../getListResult.php";
+         ?>
             </div>
-         </div>
-         <div class="container-fluid pb-5 mt-3">
-            <div class="container">
-               <div class="row mx-0">
-                  <a class="btn btn-warp text-kanit ml-auto mr-2 text-black">ลิงค์ดูบอลประจำวันที่ 06/08/2561</a>
-                  <a href="" class="btn btn-warp text-kanit">คลิกที่นี่เพื่ออัพเดทลิงค์ดูบอล</a>
-               </div>
-               <div class="">
-                  <table class="table-live" style="width: 100%;table-layout: fixed;">
-                     <tbody>
-                        <tr class="press-title">
-                           <th colspan="19" class="text-white">
-                              ผลบอล เบลเยี่ยม จูปิแลลีก
-                           </th>
-                        </tr>
-                        <tr class="columns text-center">
-                           <th colspan="2">เวลา</th>
-                           <th colspan="11">คู่แข่งขัน</th>
-                           <th colspan="2">ผลบอล</th>
-                           <th colspan="2">ลิงค์ดูบอล</th>
-                           <th colspan="2">ถ่ายทอดสด</th>
-                        </tr>
-                        <tr class="match">
-                           <td colspan="2">23:00</td>
-                           <td colspan="5" class="text-right pr-3">ราซิ่ง เกงค์</td>
-                           <td colspan="1">Vs</td>
-                           <td colspan="5" class="text-left pl-3">แซงต์ ทรุยด็อง</td>
-                           <td colspan="2">0 - 0</td>
-                           <td colspan="2">
-                              <a href="#" class="text-red font-weight-bold" target="_blank">LINK</a>
-                           </td>
-                           <td colspan="2">-</td>
-                        </tr>
-                        <tr class="match">
-                           <td colspan="2">01:00</td>
-                           <td colspan="5" class="text-right pr-3">เปรูเวลซ์</td>
-                           <td colspan="1">Vs</td>
-                           <td colspan="5" class="text-left pl-3">คลับบรูซ</td>
-                           <td colspan="2">0 - 0</td>
-                           <td colspan="2">
-                              <a href="#" class="text-red font-weight-bold" target="_blank">LINK</a>
-                           </td>
-                           <td colspan="2">-</td>
-                        </tr>
-                     </tbody>
-                  </table>
-               </div>
-               <div class="row mx-0 mt-3">
-                  <a class="btn btn-warp text-kanit ml-auto mr-2 text-black">ผลบอลประจำวันที่ 06/08/2561</a>
-                  <a href="" class="btn btn-warp text-kanit">คลิกที่นี่เพื่ออัพเดทผลบอล</a>
-               </div>
-               <div class="">
-                  <table class="table-live" style="width: 100%;table-layout: fixed;">
-                     <tbody>
-                        <tr class="press-title">
-                           <th colspan="19" class="text-white">
-                              ผลบอล เบลเยี่ยม จูปิแลลีก
-                           </th>
-                        </tr>
-                        <tr class="columns text-center">
-                           <th colspan="2">เวลา</th>
-                           <th colspan="11">คู่แข่งขัน</th>
-                           <th colspan="2">ผลบอล</th>
-                           <th colspan="2">ลิงค์ดูบอล</th>
-                           <th colspan="2">ถ่ายทอดสด</th>
-                        </tr>
-                        <tr class="match">
-                           <td colspan="2">23:00</td>
-                           <td colspan="5" class="text-right pr-3">ราซิ่ง เกงค์</td>
-                           <td colspan="1">Vs</td>
-                           <td colspan="5" class="text-left pl-3">แซงต์ ทรุยด็อง</td>
-                           <td colspan="2">0 - 0</td>
-                           <td colspan="2">
-                              <a href="#" class="text-red font-weight-bold" target="_blank">LINK</a>
-                           </td>
-                           <td colspan="2">-</td>
-                        </tr>
-                        <tr class="match">
-                           <td colspan="2">01:00</td>
-                           <td colspan="5" class="text-right pr-3">เปรูเวลซ์</td>
-                           <td colspan="1">Vs</td>
-                           <td colspan="5" class="text-left pl-3">คลับบรูซ</td>
-                           <td colspan="2">0 - 0</td>
-                           <td colspan="2">
-                              <a href="#" class="text-red font-weight-bold" target="_blank">LINK</a>
-                           </td>
-                           <td colspan="2">-</td>
-                        </tr>
-                     </tbody>
-                  </table>
-               </div>
-               <p class="text-indent-3 text-kanit" style="color: #000;">
-                  หาเว็บดูบอลสดอยู่เหรอต้อง <?=$site_name;?> สุดยอดแหล่งรวมลิ้งดูบอลวันนี้ ดูบอลโลก 2018 รัสเซีย ดีที่สุดในไทยคัดสรรลิีงคุณภาพจากที่ต่างๆมากมาย
-                  ไม่ว่าจะเป็น Facebook, Youtube หรือเว็บดูบอลออนไลน์ที่ต่างๆ โดยเราคัดคุณภาพให้แล้ว ดูได้ทั้งคอมและมือถือ รองรับคนดูได้โดยไม่กระตุก
-                  มารวมไว้ในที่เดียวและเรายังอัพเดทลิ้งในตารางบอล ตลอด 24 ชม. ทั้งไทยและต่างประเทศไม่ว่าจะเป็น ไทยลีก, พรีเมียร์ลีก อังกฤษ,
-                  ลาลีกา สเปน, บุนเดสลีกา เยอรมัน, กัลโช่ เซเรียอา อิตาลี, ลีกเอิง ฝรั่งเศส
-               </p>
-            </div>
-         </div>
+         
          <div class="py-3" style="background: #000;">
             <hr class="my-3" style="border-color: #fff;border-top: 3px solid white;">
             <div class="row mx-0 text-white">
