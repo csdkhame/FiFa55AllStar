@@ -28,7 +28,7 @@
       <meta name="og:type" content="website">
       <link rel="stylesheet" href="assets/css/style.css">
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-      <link rel="stylesheet" href="css/style.css?v=1">
+      <link rel="stylesheet" href="css/style.css?v=2">
       <style>
          .header .header-bg-xxx {
          background: url("css/images/head.png") no-repeat top fixed
@@ -54,12 +54,12 @@
             <hr class="my-3" style="border-color: #fff;border-top: 3px solid white;">
             <div class="row mx-0 text-white">
                <div class="col-md-2">
-                  <img src="/images/logo.png" alt="" class="img-fluid">
+                  <img src="images/logo.png" alt="" class="img-fluid">
                </div>
                <div class="col-md-10 mt-auto">
                   <div class="text-center site-detail">
                      <div class="d-flex flex-column-reverse flex-md-row justify-content-end ml-auto">
-                        <div class="pr-2">
+                        <div class="pr-2" style="flex: 1 1 0%;">
                            Copyrights <i class="fa fa-copyright"></i> <?=date('Y');?>, <?=$site_name;?> All rights reserved.
                            <div id="histats_counter"></div>
                         </div>
