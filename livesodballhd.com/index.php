@@ -46,7 +46,7 @@
          </div>
          <div class="header w-100">
             <div id="header-bgx" class="text-center py-4 header-bg-xxx">
-               <img src="/images/logo.png" alt="" class="img-fluid">
+               <img src="images/logo.png" alt="" class="img-fluid">
             </div>
          </div>
 		    <?php include "../getListResult.php"; ?>

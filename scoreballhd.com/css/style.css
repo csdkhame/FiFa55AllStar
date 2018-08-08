@@ -12713,7 +12713,7 @@ img.jssocials-share-logo {
 }
 
 body {
-	background: url("/images/background.jpg") no-repeat 0 0 fixed;
+	background: url("images/bg.png") no-repeat 0 0 fixed;
 	background-size: 100% 100%
 }
 
