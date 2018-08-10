@@ -34,7 +34,8 @@
                   </div>
                   <div class="pre-header-right right">
                      <ul class="clearfix">
-                        <span class="pipe-bar"> &nbsp;</span>
+                        <li><a href="https://line.me/R/ti/p/%40fifa55hd">สมัครสมาชิก</a></li>
+                        <span class="pipe-bar"> |&nbsp;</span>
                         <li><a href="">ทางเข้าเล่น</a></li>
                      </ul>
                   </div>
@@ -132,10 +133,10 @@
 									      </div>
 									      <h1 class="h-text-contact contact-sub-left  wow zoomIn" style="visibility: visible; animation-name: zoomIn;">ติดต่อเรา</h1>
 									      <ul class="widget-list contact-list">
-									         <li class="wow zoomInRight" data-wow-delay="0.4s" onclick="window.open('https://line.me/ti/p/@<?=$fifa55Main;?>', '_blank')" style="visibility: visible; animation-delay: 0.4s; animation-name: zoomInRight;"><img src="images/contact/svg/line.svg" style="width: 40px;"> 		<span class="contact-list-style">@<?=$fifa55Main;?></span></li>
-									         <li class="wow zoomInRight" data-wow-delay="0.6s" onclick="window.open('https://www.facebook.com/<?=$fifa55Main;?>', '_blank')" style="visibility: visible; animation-delay: 0.6s; animation-name: zoomInRight;"><img src="images/contact/svg/facebook.svg" style="width: 40px;"> 	<span class="contact-list-style"> <?=$fifa55Main;?></span></li>
-									         <li class="wow zoomInRight" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: zoomInRight;"><img src="images/contact/svg/email.svg" style="width: 40px;"> 		<span class="contact-list-style"><?=$fifa55Main;?>@gmail.com </span></li>
-									         <li class="wow zoomInRight" data-wow-delay="1s" style="visibility: visible; animation-delay: 1s; animation-name: zoomInRight;"><img src="images/contact/svg/internet.svg" style="width: 40px;"> 	<span class="contact-list-style">www.<?=$fifa55Main;?>.com</span></li>
+									         <li class="wow zoomInRight" data-wow-delay="0.4s" onclick="window.open('https://line.me/ti/p/@fifa55hd', '_blank')" style="visibility: visible; animation-delay: 0.4s; animation-name: zoomInRight;"><img src="images/contact/svg/line.svg" style="width: 40px;"> 		<span class="contact-list-style">@fifa55hd</span></li>
+									         <li class="wow zoomInRight" data-wow-delay="0.6s" onclick="window.open('https://www.facebook.com/fifa55hd', '_blank')" style="visibility: visible; animation-delay: 0.6s; animation-name: zoomInRight;"><img src="images/contact/svg/facebook.svg" style="width: 40px;"> 	<span class="contact-list-style"> fifa55hd</span></li>
+									         <!--<li class="wow zoomInRight" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: zoomInRight;"><img src="images/contact/svg/email.svg" style="width: 40px;"> 		<span class="contact-list-style"><?=$fifa55Main;?>@gmail.com </span></li>
+									         <li class="wow zoomInRight" data-wow-delay="1s" style="visibility: visible; animation-delay: 1s; animation-name: zoomInRight;"><img src="images/contact/svg/internet.svg" style="width: 40px;"> 	<span class="contact-list-style">www.<?=$fifa55Main;?>.com</span></li>-->
 									      </ul>
 									   </div>
 									   <div>
@@ -231,7 +232,7 @@
                                     </div>
                                     <div class="media-body">
                                        <h4 class="media-heading">FIFA55 เว็บคุณภาพ บริการ 24 ชม.</h4>
-                                       สมาชิก FIFA55 ที่เข้ามาเดิมพันกับทางเว็บ <?=$fifa55Main;?> ไม่ต้องกังวลทางทีมงานพร้อมให้บริการอย่างเต็มที่โดยไร้ปัญหา
+                                       สมาชิก FIFA55 ที่เข้ามาเดิมพันกับทางเว็บ FIFA55 ไม่ต้องกังวลทางทีมงานพร้อมให้บริการอย่างเต็มที่โดยไร้ปัญหา
                                     </div>
                                  </div>
                                  <!--media-->
@@ -351,7 +352,7 @@
                <div class="simple-column">
                   <div class="heading heading-13">
                      <p>Contact Us</p>
-                     <h2 class="wow zoomInUp">ติดต่อเรา <?=$fifa55Main;?></h2>
+                     <h2 class="wow zoomInUp">ติดต่อเรา @fifa55hd</h2>
                      <br>
                   </div>
                </div>
@@ -368,14 +369,14 @@
                                  <img src="img/line-icon.png" alt="">
                               </div>
                               <div class="content-box">
-                                 <a target="_blank" href="https://line.me/ti/p/"></a>
+                                 <a target="_blank" href="https://line.me/ti/p/@fifa55hd">@fifa55hd</a>
                               </div>
                            </div>
                            <div class="facebook2 wow zoomIn"  data-wow-delay="1.8s">
                               <div class="con1">
                                  <img src="img/fb-icon.png" alt="">
                               </div>
-                              <a target="_blank" href="https://www.facebook.com/<?=$fifa55Main;?>"> <?=$fifa55Main;?></a>
+                              <a target="_blank" href="https://www.facebook.com/fifa55hd"> fifa55hd</a>
                            </div>
                            <div class="clearfix"></div>
                         </div>
