@@ -69,7 +69,7 @@
          <div class="outter-wrapper body-wrapper promotion-theme">
             <div class="wrapper section-promotion clearfix">
                <div class="col-md-6">
-                  <img src="images/promotion/promote.png" class="img-responsive wow tada" data-wow-offset="50" data-wow-delay="1.5s"> 
+                  <img src="images/promotion/FIFA55BOX.png" class="img-responsive wow tada" data-wow-offset="50" data-wow-delay="1.5s"> 
                </div>
                <div class="col-md-6 last">
                   <header>โปรโมชั่น</header>
