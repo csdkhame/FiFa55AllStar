@@ -136,7 +136,7 @@
   <div class="wrapper ad-pad clearfix" style="padding-left: 3.2em;padding-bottom: 0em;background-color: #1f1f1f ;">
     <div class="row box-highlight" align="center">
       <div class="itemhov itemhov-type-line wow pulse" data-wow-delay="0.2s">
-        <div class="itemhov-img"><img src="images/service/service1.jpg" /></div>
+        <div class="itemhov-img"><img src="images/service/service.jpg" /></div>
       </div>
       <div class="itemhov itemhov-type-line wow pulse" data-wow-delay="0.2s">
         <a class="itemhov-hover" href="index.php?pages=sport">
