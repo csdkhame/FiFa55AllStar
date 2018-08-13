@@ -22,7 +22,7 @@
           <div class="widget_nav_menu">
             <h6 class="footer-top__headings">บอล หวย คาสิโน</h6>
             <ul class="list-1">
-              <li><a href="http://www.fifa55hd.com">แทงบอลออนไลน์ </a></li>
+              <li><a href="http://www.fifa55hd.com/service/sport">แทงบอลออนไลน์ </a></li>
               <li><a href="http://www.fifa55hd.com">แทงหวยออนไลน์ </a></li>
               <li><a href="http://www.fifa55hd.com">แทงมวยออนไลน์ </a></li>
               <li><a href="http://www.fifa55hd.com">คาสิโนออนไลน์ </a></li>	
