@@ -94,9 +94,9 @@
    </div>
    
    <div class="col-md-8 col-xl-5 pr-xl-0 mr-xl-0 hidden-lg"  style="display: nones;">
-      <div class="row py-3">
          <div class="col-md-12">
-            <div class="asia-step">
+           <img src="img/fix/fix1.png" alt="สมัคร FIFA55 Step 1" width="100%" />
+           <div class="asia-step" style="display: none;">
                <div class="asia-step-img  col-md-3"> <img src="img/step-01.png" alt="สมัคร FIFA55 Step 1" class="my-3 my-sm-0"></div>
                <div class="asia-step-detail col-md-6 text-center text-sm-left px-3 pl-sm-5 ml-3 py-3" style="">
                <p class="asia-step-detail-head" style="color:#fff;">
@@ -108,7 +108,8 @@
          </div>
         <br />
          <div class="col-md-12">
-            <div class="asia-step">
+           <img src="img/fix/fix2.png" alt="สมัคร FIFA55 Step 1" width="100%" />
+            <div class="asia-step" style="display: none;">
                <div class="asia-step-img col-md-3"> <img src="img/step-02.png" alt="สมัคร FIFA55 Step 2" class="my-3 my-sm-0"></div>
                <div class="asia-step-detail col-md-6 text-center text-sm-left px-3 pl-sm-5 ml-3 py-3" style="">
                   <p class="asia-step-detail-head" style="color:#fff;">
@@ -120,7 +121,8 @@
          </div>
         <br />
          <div class="col-md-12">
-            <div class="asia-step">
+           <img src="img/fix/fix3.png" alt="สมัคร FIFA55 Step 1" width="100%" />
+            <div class="asia-step" style="display: none;">
                <div class="asia-step-img col-md-3"> <img src="img/step-03.png" alt="Step 3" class="my-3 my-sm-0"></div>
                <div class="asia-step-detail col-md-6 text-center text-sm-left px-3 pl-sm-5 ml-3 py-3" style="">
                  <p class="asia-step-detail-head" style="color:#fff;">
@@ -130,7 +132,7 @@
                </div>
             </div>
          </div>
-      </div>
+ 
    </div>
 	</div>
 <!--<img src="img/promo.png" />-->
@@ -158,7 +160,7 @@
     </div>
   </div>
 </div>
-<div class="outter-wrapper body-wrapper wrapper-feature">
+<div class="outter-wrapper body-wrapper wrapper-feature" id="about">
   <div class="outter-wrapper body-wrapper">
     <div class="wrapper ad-pad-first clearfix" >
       <div class="col-xs-12">
@@ -186,7 +188,7 @@
   <div class="wrapper ad-pad clearfix" style="padding-left: 3.2em;padding-bottom: 0em;background-color: #1f1f1f ;">
     <div class="row box-highlight" align="center">
       <div class="itemhov itemhov-type-line wow pulse" data-wow-delay="0.2s">
-        <div class="itemhov-img"><img src="images/service/service.jpg" /></div>
+        <div class="itemhov-img"><img src="images/service/service.png" /></div>
       </div>
       <div class="itemhov itemhov-type-line wow pulse" data-wow-delay="0.2s">
         <a class="itemhov-hover" href="index.php?pages=sport">
@@ -197,7 +199,7 @@
           </div>
           <div class="mask"></div>
         </a>
-        <div class="itemhov-img"><a href="index.php?pages=sport"><img src="images/service/service1.jpg" /></a></div>
+        <div class="itemhov-img"><a href="index.php?pages=sport"><img src="images/service/service1.png" /></a></div>
       </div>
       <div class="itemhov itemhov-type-line wow pulse" data-wow-delay="0.2s">
         <a class="itemhov-hover" href="index.php?pages=casino">
@@ -208,7 +210,7 @@
           </div>
           <div class="mask"></div>
         </a>
-        <div class="itemhov-img"><a href="index.php?pages=casino"><img src="images/service/service2.jpg" /></a></div>
+        <div class="itemhov-img"><a href="index.php?pages=casino"><img src="images/service/service2.png" /></a></div>
       </div>
       <div class="itemhov itemhov-type-line wow pulse" data-wow-delay="0.2s">
         <a class="itemhov-hover" href="index.php?pages=lotto">
@@ -219,7 +221,7 @@
           </div>
           <div class="mask"></div>
         </a>
-        <div class="itemhov-img"><a href="index.php?pages=lotto"><img src="images/service/service3.jpg" /></a></div>
+        <div class="itemhov-img"><a href="index.php?pages=lotto"><img src="images/service/service3.png" /></a></div>
       </div>
     </div>
   </div>
@@ -229,7 +231,7 @@
     <img class="img-responsive wow flash" data-wow-delay="2s" src="images/service/all-service.jpg">
   </div>
 </div>
-<div class="outter-wrapper body-wrapper wrapper-feature">
+<div class="outter-wrapper body-wrapper wrapper-feature" id="better">
   <div class="wrapper ad-pad-first clearfix">
     <div class="col-xs-12">
       <div class="simple-column">
