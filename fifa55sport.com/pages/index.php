@@ -34,17 +34,66 @@
 .asia-link-header, .asia-step-img {
     text-align: center;
 }
-
+@media (min-width:900px){
+    .hidden-lg{
+        display:none!important
+    }
+}
 </style>
 <div class="outter-wrapper body-wrapper promotion-theme">
-  <div class="wrapper section-promotion clearfix">
+  <div class="wrapper section-promotion clearfix" style="padding-bottom: 0px;">
     <div class="row">
-   <div class="col-md-4 hidden-sm hidden-md hidden-xs">
+    
+    <div class="col-md-4 hidden-sm hidden-md hidden-xs"  style="display: nones;z-index: 10;">
       <div class="asia-relative hidden-lg-down">
-         <div class="asia-img-ab"> <img src="img/girl.png" alt="FIFA55 Girl Brand" style="margin-top: -87px;"></div>
+         <div class="asia-img-ab"> <img src="img/girl2.png" alt="FIFA55 Girl Brand" style="margin-top: -50px;margin-left: 70px;width: 400px;"></div>
       </div>
    </div>
-   <div class="col-md-8 col-xl-5 pr-xl-0 mr-xl-0">
+   
+   <div class="col-md-8 col-xl-5 pr-xl-0 mr-xl-0 hidden-md hidden-xs"  style="display: nones;">
+      <div class="row py-3">
+         <div class="col-md-12">
+            <div class="asia-step">
+              <!-- <div class="asia-step-img  col-md-3"> <img src="img/step-01.png" alt="สมัคร FIFA55 Step 1" class="my-3 my-sm-0"></div>
+               <div class="asia-step-detail col-md-6 text-center text-sm-left px-3 pl-sm-5 ml-3 py-3" style="">
+               <p class="asia-step-detail-head" style="color:#fff;">
+                    ติดต่อ CALL CENTER <i>FIFA55</i> บริการ 24 ชั่วโมง <br />
+                    LINE ID : <a href="line://ti/p/%40<?=$fifa55Main;?>" class="text-white">@<?=$fifa55Main;?></a>
+                  </p>
+               </div>-->
+               <img src="img/fix/fix1.png" style="width: 520px;" />
+            </div>
+         </div>
+        <br />
+         <div class="col-md-12">
+            <div class="asia-step">
+               <!--<div class="asia-step-img col-md-3"> <img src="img/2.png" alt="สมัคร FIFA55 Step 2" class="my-3 my-sm-0"></div>
+               <div class="asia-step-detail col-md-6 text-center text-sm-left px-3 pl-sm-5 ml-3 py-3" style="margin-top: 9px;">
+                  <p class="asia-step-detail-head" style="color:#fff;">
+                    โอนเงินเข้า <i>FIFA55</i> ขั้นต่ำเพียง 300 บาท <br />
+                    ได้ตลอด 24 ชั่วโมง
+                  </p>
+               </div>-->
+               <img src="img/fix/fix2.png" style="width: 520px;" />
+            </div>
+         </div>
+        <br />
+         <div class="col-md-12">
+            <div class="asia-step">
+               <!--<div class="asia-step-img col-md-3"> <img src="img/3.png" alt="Step 3" class="my-3 my-sm-0"></div>
+               <div class="asia-step-detail col-md-6 text-center text-sm-left px-3 pl-sm-5 ml-3 py-3" style="">
+                 <p class="asia-step-detail-head" style="color:#fff;">
+                    ขอรับ Username และ Password<br />
+                    ร่วมสนุกกับ <i>FIFA55</i> ได้ทันที<br />
+                  </p>
+               </div>-->
+               <img src="img/fix/fix3.png" style="width: 520px;" />
+            </div>
+         </div>
+      </div>
+   </div>
+   
+   <div class="col-md-8 col-xl-5 pr-xl-0 mr-xl-0 hidden-lg"  style="display: nones;">
       <div class="row py-3">
          <div class="col-md-12">
             <div class="asia-step">
@@ -83,7 +132,8 @@
          </div>
       </div>
    </div>
-</div>
+	</div>
+<!--<img src="img/promo.png" />-->
   </div>
 </div>
 <div class="header-top" style="border-top: 1px solid #c1212c;">

@@ -20,26 +20,22 @@
         <!-- /.row -->
         <div class="col-xs-12 col-md-2">
           <div class="widget_nav_menu">
-            <h6 class="footer-top__headings">FOOTBALL</h6>
+            <h6 class="footer-top__headings">บอล หวย คาสิโน</h6>
             <ul class="list-1">
-              <li><a href="http://www.fifa55hd.com/livescore/index/ผลบอลสด">ผลบอลสด</a></li>
-              <li><a href="http://www.fifa55hd.com/dooball/index/ดูบอลออนไลน์">ดูบอลออนไลน์</a></li>
-              <li><a href="http://www.fifa55hd.com/tdedball/index/ตารางแข่งขันฟุตบอล">ตารางแข่งขันฟุตบอล</a></li>
-              <li><a href="http://www.fifa55hd.com/news/index/ข่าวฟุตบอล">ข่าวฟุตบอล</a></li>
-              <li><a href="http://www.fifa55hd.com/hilight/index/ไฮไลท์ฟุตบอล">ไฮไลท์ฟุตบอล</a></li>
-              <li><a href="http://www.fifa55hd.com/service/sport/">แทงบอลเต็ง, แทงบอลสเต็ป</a></li>	
+              <li><a href="http://www.fifa55hd.com">แทงบอลออนไลน์ </a></li>
+              <li><a href="http://www.fifa55hd.com">แทงหวยออนไลน์ </a></li>
+              <li><a href="http://www.fifa55hd.com">แทงมวยออนไลน์ </a></li>
+              <li><a href="http://www.fifa55hd.com">คาสิโนออนไลน์ </a></li>	
             </ul>
           </div>
         </div>
         <div class="col-xs-12 col-md-2">
           <div class="widget_nav_menu">
-            <h6 class="footer-top__headings">ALL IN ONE</h6>
+            <h6 class="footer-top__headings">อัพเดทข่าวโปรโมชั่น</h6>
             <ul class="list-1">
-              <li><a href="http://www.fifa55hd.com/service/lotto/แทงหวยออนไลน์">แทงหวยออนไลน์</a></li>
-              <li><a href="http://www.fifa55hd.com/service/casino/">แทงคาสิโน, บาคาร่า </a></li>
-              <li><a href="http://www.fifa55hd.com/service/basketball/แทงบาสออนไลน์ ">แทงบาสออนไลน์ </a></li>
-              <li><a href="http://www.fifa55hd.com/service/boxxing/แทงมวยออนไลน์ ">แทงมวยออนไลน์ </a></li>
-              <li><a href="http://www.fifa55hd.com/service/cocks/ไก่ชนออนไลน์">ไก่ชนออนไลน์</a></li>
+              <li><a href="http://www.fifa55hd.com/service/">สมัครใหม่รับ 20% </a></li>
+              <li><a href="http://www.fifa55hd.com/service/casino/">ฝากเงินรับโบนัส 5% </a></li>
+              <li><a href="http://www.fifa55hd.com/service/basketball/แทงบาสออนไลน์ ">บริการคืนเงิน 5-10% </a></li>
               <li class="before-none"><a>&nbsp;</a></li>
             </ul>	
           </div>
@@ -47,14 +43,12 @@
         <!-- /.row -->
         <div class="col-xs-12 col-md-2">
           <div class="widget_nav_menu">
-            <h6 class="footer-top__headings">HELP &amp; SUPPORT</h6>
+            <h6 class="footer-top__headings">ข้อแนะนำการเล่น</h6>
             <ul class="list-1">
-              <li><a href="http://www.fifa55hd.com/agency/index/สมัครเอเย่นต์ ">สมัครเอเย่นต์ </a></li>  
-              <li><a href="http://www.fifa55hd.com/aboutus/index/เกี่ยวกับเรา">เกี่ยวกับเรา</a></li>
-              <li><a href="http://www.fifa55hd.com/contactus/index/ติดต่อเรา">ติดต่อเรา</a></li>
-              <li><a href="http://www.fifa55hd.com/withdraw/index/ฝาก-ถอน">ฝาก-ถอน</a></li>
-              <li><a href="http://www.fifa55hd.com/howtoplay/index/วิธีการเล่น">วิธีการเล่น</a></li>
-              <li class="before-none"><a>&nbsp;</a></li>
+              <li><a href="http://www.fifa55hd.com/agency/index/สมัครเอเย่นต์ ">ขั้นตอนการฝากเงิน </a></li>  
+              <li><a href="http://www.fifa55hd.com/aboutus/index/เกี่ยวกับเรา">ขั้นตอนการถอนเงิน </a></li>
+              <li><a href="http://www.fifa55hd.com/contactus/index/ติดต่อเรา">ขั้นตอนการเล่นบอล สเต็ปและบอลเต็ง </a></li>
+              <li><a href="http://www.fifa55hd.com/withdraw/index/ฝาก-ถอน">ขั้นตอนการใช้บนมือถือ </a></li>
             </ul>	
           </div>
           <!-- /.widget_nav_menu -->
@@ -62,13 +56,11 @@
         <!-- /.row -->
         <div class="col-xs-12 col-md-2">
           <div class="widget_nav_menu">
-            <h6 class="footer-top__headings">LEARN HOW TO</h6>
+            <h6 class="footer-top__headings">คำถามที่พบบ่อย</h6>
             <ul class="list-1">
-              <li><a href="http://www.fifa55hd.com/register/index/สมัครสมาชิก">สมัครสมาชิก</a></li>
-              <li><a href="http://www.fifa55hd.com/promotion/index/โปรโมชั่น">โปรโมชั่น</a></li>
-              <li><a href="http://www.fifa55hd.com/agency/index/สมัครเอเย่นต์ ">สมัครเอเย่นต์ </a></li>  
-              <li><a href="http://www.fifa55hd.com/howtoplay/index/วิธีการเล่น">วิธีการเล่น</a></li>
-              <li><a href="http://www.fifa55hd.com/linktoplay/index/ทางเข้าเล่น">ทางเข้าเล่น</a></li>
+              <li><a href="http://www.fifa55hd.com/register/index/สมัครสมาชิก">FIFA55 คืออะไร ? </a></li>
+              <li><a href="http://www.fifa55hd.com/promotion/index/โปรโมชั่น">ทำไมต้องแทงบอลกับ FIFA55 ? </a></li>
+              <li><a href="http://www.fifa55hd.com/agency/index/สมัครเอเย่นต์ ">เดิมพันกับเว็บเราดีอย่างไร ? </a></li>  
               <li class="before-none"><a>&nbsp;</a></li>
             </ul>	
           </div>
