@@ -159,23 +159,46 @@ var txt_blank = "กรุณากรอกข้อมูลให้ครบ
       $("#alerts-error-contact").fadeIn("slow");
       $("#contact_phone").addClass("requred-input");
       return false
-    } else {
+    } else {+
       $(".ajax-wait-contact").show();
       $("#contact_form input,textarea,input[type='submit']").prop("disabled", true);
-      $.post("http://www.fifa55hd.com/contactus/sendmail_ajax", {contact_name: contact_name, contact_phone: contact_phone, contact_detail: contact_detail}).done(function (data) {
-        if (data) {
-          $(".ajax-wait-contact").hide();
-          $("#alerts-error-contact").fadeOut("fast");
-          $("#txt-success-contact").text(txt_success);
-          $("#alerts-success-contact").fadeIn("slow");
-        } else {
-          $(".ajax-wait-contact").hide();
-          $("#txt-error-contact").text(txt_fail);
-          $("#alerts-error-contact").fadeIn("slow");
-        }
-        $("#contact_form :input,textarea,input[type='submit']").prop("disabled", false);
-        $("#contact_form :input,textarea").val("");
-      });
+      $.ajax({
+        type: 'POST',
+        url: './pages/sendcontact.php',
+        data: { contact_name: contact_name, contact_phone: contact_phone, contact_detail: contact_detail },
+            //contentType: "application/json",
+             dataType: 'json',
+            success: function(data) {
+              console.log(data)
+              if (data) {
+                var txt_success = 'สำเร็จ !! กรุณารอการติดต่อกลับจากเจ้าหน้าที่';
+                $(".ajax-wait-contact").hide();
+                $("#alerts-error-contact").fadeOut("fast");
+                $("#txt-success-contact").text(txt_success);
+                $("#alerts-success-contact").fadeIn("slow");
+              } else {
+                $(".ajax-wait-contact").hide();
+                $("#txt-error-contact").text(txt_fail);
+                $("#alerts-error-contact").fadeIn("slow");
+              }
+              $("#contact_form :input,textarea,input[type='submit']").prop("disabled", false);
+              $("#contact_form :input,textarea").val("");
+            }
+          });
+      // $.post("http://www.fifa55hd.com/contactus/sendmail_ajax", {contact_name: contact_name, contact_phone: contact_phone, contact_detail: contact_detail}).done(function (data) {
+      //   if (data) {
+      //     $(".ajax-wait-contact").hide();
+      //     $("#alerts-error-contact").fadeOut("fast");
+      //     $("#txt-success-contact").text(txt_success);
+      //     $("#alerts-success-contact").fadeIn("slow");
+      //   } else {
+      //     $(".ajax-wait-contact").hide();
+      //     $("#txt-error-contact").text(txt_fail);
+      //     $("#alerts-error-contact").fadeIn("slow");
+      //   }
+      //   $("#contact_form :input,textarea,input[type='submit']").prop("disabled", false);
+      //   $("#contact_form :input,textarea").val("");
+      // });
       return false;
     }
   });
