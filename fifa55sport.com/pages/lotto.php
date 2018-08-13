@@ -42,19 +42,19 @@
         <p><span style="font-size:32px"><strong><span style="font-family:thsarabunnewregular">ขั้นตอนการซื้อหวยออนไลน์</span></strong></span></p>
         <p><span style="font-size:26px"><span style="font-family:thsarabunnewregular">1. เข้าเว็บไซต์&nbsp;<strong><a href="http://www.fifa55hd.com/" target="_blank"><span style="color:rgb(178, 34, 34)">www.fifa55.com</span></a></strong></span></span></p>
         <p><span style="font-size:26px"><span style="font-family:thsarabunnewregular">2. เมื่อเข้าสู่เว็บไซต์แล้ว ให้ทำการเข้าสู่ระบบ</span></span></p>
-        <p><img class="img-responsive" src="http://www.fifa54.com/backoffice/../files/com_howtoplay/2017-02/2017-02_8db69045377d591.jpg"><img class="img-responsive" src="http://www.fifa54.com/backoffice/../files/com_howtoplay/2017-02/2017-02_8db69045377d591.jpg"></p>
+        <p><img class="img-responsive" src="files/com_howtoplay/2017-02_8db69045377d591.jpg"><img class="img-responsive" src="files/com_howtoplay/2017-02_8db69045377d591.jpg"></p>
         <p>&nbsp;</p>
         <p><span style="font-family:thsarabunnewregular; font-size:26px">3. เมื่อเข้าสู่ระบบแล้ว ให้เลือกเมนูหวย</span></p>
-        <p><img class="img-responsive" src="http://www.fifa54.com/backoffice/../files/com_howtoplay/2017-02/2017-02_ad7531a0bfb8df5.jpg"></p>
+        <p><img class="img-responsive" src="files/com_howtoplay/2017-02_ad7531a0bfb8df5.jpg"></p>
         <p>&nbsp;</p>
         <p><span style="font-size:26px"><span style="font-family:thsarabunnewregular">4. คลิ๊กเมนูย่อยหวย</span></span></p>
-        <p><img class="img-responsive" src="http://www.fifa54.com/backoffice/../files/com_howtoplay/2017-02/2017-02_b55ff88ef920d11.jpg"></p>
+        <p><img class="img-responsive" src="files/com_howtoplay/2017-02_b55ff88ef920d11.jpg"></p>
         <p>&nbsp;</p>
         <p><span style="font-size:26px"><span style="font-family:thsarabunnewregular">4. แถบด้านบนจะเป็นชนิดหวยให้เราเลือก กดเลือกชนิดหวยที่ต้องการซื้อ</span></span></p>
         <p><span style="font-size:26px"><span style="font-family:thsarabunnewregular">5. กรอกตัวเลขพร้อมจำนวนเงิน จากนั้นกดบันทึก</span></span></p>
         <p><span style="font-size:26px"><span style="font-family:thsarabunnewregular">6. เลขที่ซื้อจะเป็นตัวหนังสือสีฟ้าด้านล่างตาราง เท่ากับว่าซื้อหวยเสร็จเรียบร้อยแล้ว และยังสามารถเลือกซื้อหวยได้อีก</span></span></p>
         <p><span style="font-size:26px"><span style="font-family:thsarabunnewregular">7. หากต้องการตรวจสอบเลขที่ซื้อไว้ สามารถเช็คได้ที่ยอดเล่นค้าง</span></span></p>
-        <p><img class="img-responsive" src="http://www.fifa54.com/backoffice/../files/com_howtoplay/2017-02/2017-02_7d94cdccfee6ec5.jpg"></p>
+        <p><img class="img-responsive" src="files/com_howtoplay/2017-02_7d94cdccfee6ec5.jpg"></p>
         <p>&nbsp;</p>
       </div>
     </div>
