@@ -93,10 +93,10 @@
         <div class="body-main-sub-in ">
           <p class="p-contact">  </p>
           <div class="message error" id="alerts-error-contact">
-            <em class="fa"></em> <span id="txt-error-contact"></span>		
+            <em class="fa"></em> <span id="txt-error-contact" style="font-family: 'thaisanslite', Arial, sans-serif;"></span>		
           </div>
           <div class="message success" id="alerts-success-contact">
-            <em class="fa"></em> <span id="txt-success-contact"></span>
+            <em class="fa"></em> <span id="txt-success-contact" style="font-family: 'thaisanslite', Arial, sans-serif;"></span>
             <em type="button" class="close" id="close-contact"><span aria-hidden="true">×</span></em>
           </div>
           <form id="contact_form" method="post" name="entryform">
@@ -104,16 +104,16 @@
               <tbody>
                 <tr>
                   <td>
-                    <input type="text" id="contact_name" name="contact_name" placeholder="ชื่อผู้ติดต่อ" autocomplete="off"></td>
+                    <input style="font-family: 'thaisanslite', Arial, sans-serif;" type="text" id="contact_name" name="contact_name" placeholder="ชื่อผู้ติดต่อ" autocomplete="off"></td>
                 </tr>
                 <tr>
                   <td>
-                    <input type="text" id="contact_phone" name="contact_phone" placeholder="หมายเลขโทรศัพท์" autocomplete="off">
+                    <input style="font-family: 'thaisanslite', Arial, sans-serif;" type="text" id="contact_phone" name="contact_phone" placeholder="หมายเลขโทรศัพท์" autocomplete="off">
                   </td>
                 </tr>
                 <tr>
                   <td>
-                    <textarea id="contact_detail" name="contact_detail" placeholder="รายละเอียด"></textarea>
+                    <textarea style="font-family: 'thaisanslite', Arial, sans-serif;" id="contact_detail" name="contact_detail" placeholder="รายละเอียด"></textarea>
                   </td>
                 </tr>
               </tbody>

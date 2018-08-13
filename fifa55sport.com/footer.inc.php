@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-xs-12 col-md-4">
           <p>
-            <img alt="logo-footer" class="logo" src="images/logo-footer.png">
+            <img alt="logo-footer" class="logo" src="images/logo-footer.png?v=2">
           </p>
           <p class="foot-txt">
             <span style="color: #ff665a;"><?=$fifa55Main;?></span>  เว็บแทงพนันออนไลน์ ที่มั่นคง เล่นง่าย ราคาดี เพิ่มความมั่นใจให้คุณอีก 100% ด้วยบริการ <br />ฝาก - ถอน รวดเร็วทันใจ ตลอด 24 ชั่วโมง					</p>
@@ -75,7 +75,8 @@
   <!-- /.footer-top -->
   <div class="footer-bottom">
     <div class="container">
-      <div class="footer-bottom__left">
+      <div class="footer-bottom__left" style="font-size: 20px;
+    font-family: 'thaisanslite', Arial, sans-serif;">
 <?=$fifa55Main;?> © <?=date('Y');?> all right reserved. <!-- Powered By <a href=""></a> -->
       </div>
       <div class="footer-bottom__right"></div>
