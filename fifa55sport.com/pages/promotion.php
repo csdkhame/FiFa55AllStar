@@ -30,14 +30,11 @@
   <h4>โปรโมชั่นแนะนำ สำหรับ <?=$fifa55Main;?></h4>
 </div>
 <div class="outter-wrapper body-wrapper">
-
   <div class="wrapper blog-roll ad-pad clearfix">
-
     <!-- Start Main Column  -->
     <div class="col-sm-12 col-md-9 body-sub screen-w-right-in">
-
-      <div class="clearfix post body-main-sub"><div class="body-main-sub-in listf-1">
-
+      <div class="clearfix post body-main-sub" style="display: none;">
+        <div class="body-main-sub-in listf-1" >
           <p><span style="color:#c1212c"><span style="font-size:36px"><span style="font-family:pslxkittithadabold">โปรโมชั่น FIFA  มีการอัพเดตใหม่ทุกๆ เดือน เพื่อตอบความต้องการของผู้เล่น</span></span></span></p>
           <ul>
             <li>
@@ -50,7 +47,7 @@
             <li>
               <span style="font-size:26px">
                 <span style="font-family:thaisanslite">
-                  > รับดบนัส 5% ทุกยอดฝาก
+                  > รับโบนัส 5% ทุกยอดฝาก
                 </span>
               </span>
             </li>
@@ -75,48 +72,83 @@
                 </span>
               </span>
             </li>
-            
-            
-
-
-
           </ul>
-
-
-
         </div>
       </div>
-
+      <div class="clearfix post body-main-sub">
+        <div class="body-main-sub-in clearfix promotion-list-sub">
+          <div class="col-md-5">
+            <img src="images/promotion/1.png" class="max-w">
+          </div>
+          <div class="col-md-7 last">
+            <span class="bullet-no top-2">1</span> <span class="pro-subject"> รับเครดิตฟรี 20% จากการแนะนำเพื่อน</span>
+            <div class="pro-descript">
+              <ul>
+                <li><span>รับเครดิตฟรี 20% จากการแนะนำเพื่อน</span></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="body-main-sub-in clearfix promotion-list-sub">
+          <div class="col-md-5">
+            <img src="images/promotion/2.png" class="max-w">
+          </div>
+          <div class="col-md-7 last">
+            <span class="bullet-no top-2">2</span> <span class="pro-subject"> รับโบนัส 5% ทุกยอดฝาก</span>
+            <div class="pro-descript">
+              <ul>
+                <li><span>รับโบนัส 5% ทุกยอดฝาก</span></li>
+<!--                <li><span>รับโบนัส 10% ทุกสิ้นเดือน และเทศกาล</span></li>-->
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="body-main-sub-in clearfix promotion-list-sub">
+          <div class="col-md-5">
+            <img src="images/promotion/3.png" class="max-w">
+          </div>
+          <div class="col-md-7 last">
+            <span class="bullet-no top-2">3</span> <span class="pro-subject"> สมัครครั้งแรกรับยอดฝาก 2 เท่า </span>
+            <div class="pro-descript">
+              <ul>
+                <li><span>สมัครครั้งแรกรับยอดฝาก 2 เท่า</span></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="body-main-sub-in clearfix promotion-list-sub">
+          <div class="col-md-5">
+            <img src="images/promotion/4.png" class="max-w">
+          </div>
+          <div class="col-md-7 last">
+            <span class="bullet-no top-2">4</span> <span class="pro-subject"> รับโปรนัส 20% เมื่อสมัครสมาชิก</span>
+            <div class="pro-descript">
+              <ul>
+                <li><span>รับโปรนัส 20% เมื่อสมัครสมาชิก</span></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
-
     <!-- Start Right Sidebar  -->
     <aside class="col-sm-12 col-md-3 screen-w-right-2">
       <div class="widget">
-
-
         <div class="widget-ads-r wow bounceIn" data-wow-delay="1s" style="text-align: -webkit-center; visibility: visible; animation-delay: 1s; animation-name: bounceIn;">
           <img src="images/subpage/ads-right.png" class="img-responsive">
         </div> 
-
         <h1 class="h-text-contact contact-sub-left  wow zoomIn" style="visibility: visible; animation-name: zoomIn;">ติดต่อเรา</h1>
         <ul class="widget-list contact-list">
-
           <li class="wow zoomInRight" data-wow-delay="0.4s" onclick="window.open('https://line.me/ti/p/@fifa55sport', '_blank')" style="visibility: visible; animation-delay: 0.4s; animation-name: zoomInRight;"><img src="http://www.fifa55hd.com/images/contact/svg/line.svg" style="width: 40px;"> 		<span class="contact-list-style">@fifa55sport</span></li>
           <li class="wow zoomInRight" data-wow-delay="0.6s" onclick="window.open('https://www.facebook.com/fifa55sport', '_blank')" style="visibility: visible; animation-delay: 0.6s; animation-name: zoomInRight;"><img src="http://www.fifa55hd.com/images/contact/svg/facebook.svg" style="width: 40px;"> 	<span class="contact-list-style"> fifa55sport</span></li>
           <li class="wow zoomInRight" data-wow-delay="1s" style="visibility: visible; animation-delay: 1s; animation-name: zoomInRight;"><img src="http://www.fifa55hd.com/images/contact/svg/internet.svg" style="width: 40px;"> 	<span class="contact-list-style">www.fifa55sport.com</span></li>
-
         </ul>
-
       </div>	 
-
       <div>
-
-      </div>  			</aside>
-
-
+      </div>  			
+    </aside>
   </div>
 </div>
-
 <br />
 <br />
 <br />
