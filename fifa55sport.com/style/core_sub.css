@@ -8505,9 +8505,11 @@ a.btn-2:hover, input[type=button].btn-2:hover, input[type=submit].btn-2:hover, b
 }
 
 .promotion-theme{
-	background: url('../images/promotion/bg-lead.jpg');
+/*	background: url('../images/promotion/bg-lead.jpg');*/
+	background: url('../images/promotion/bg-lead.png');
 	background-repeat: no-repeat;
   	background-size: 100%;
+/*  	background-color: #000;*/
 }
 
 .promotion-theme .wrapper {
@@ -8946,13 +8948,13 @@ body-main-sub-in .h-text-contact {
 .pro-descript ul li {
     line-height: 28px;
     padding-left: 10px;
-    list-style: inside;
+/*    list-style: inside;*/
     text-align: left;
     padding-bottom: 6px;
 }
 
 .pro-descript ul li span {
-    margin-left: -26px;
+/*    margin-left: -26px;*/
 }
 
 

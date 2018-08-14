@@ -166,7 +166,7 @@
       <div class="col-xs-12">
         <div class="simple-column">
           <div class="heading heading-12">
-            <h1 class="wow zoomInUp"><span class="left"></span>FIFA55 บริการเดิมพันออนไลน์อันดับ 1<span class="right"></span></h1>
+            <h1 class="wow zoomInUp" style="font-size: 34px;"><span class="left"></span>FIFA55 บริการเดิมพันออนไลน์อันดับ 1<span class="right"></span></h1>
             <div class="wow fadeIn descript-about" data-wow-delay="1.2s" data-wow-duration="1s">
               <p>FIFA55 เว็บออนไลน์อันดับหนึ่ง เว็บตรง มั่นคง ปลอดภัย 100%</p>
               <p><span style="color:#000000"><?=$fifa55Main;?>.COM</span>&nbsp;เว็บแทงบอลออนไลน์ หวยออนไลน์ คาสิโนออนไลน์ และอื่นๆ</p>
@@ -239,7 +239,7 @@
     <div class="col-xs-12">
       <div class="simple-column">
         <div class="heading heading-12 feature-des">
-          <h1 class="wow zoomInUp">เดิมพันออนไลน์ <?=$fifa55Main;?> ดีกว่ายังไง ?</h1>
+          <h1 class="wow zoomInUp" style="font-size: 31px;">เดิมพันออนไลน์ <?=$fifa55Main;?> ดีกว่ายังไง ?</h1>
           <div class="descript-about">
             <div class="row" id="sec4">
               <!-- rows -->
