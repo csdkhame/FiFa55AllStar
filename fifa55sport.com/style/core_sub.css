@@ -8946,13 +8946,13 @@ body-main-sub-in .h-text-contact {
 .pro-descript ul li {
     line-height: 28px;
     padding-left: 10px;
-    list-style: inside;
+/*    list-style: inside;*/
     text-align: left;
     padding-bottom: 6px;
 }
 
 .pro-descript ul li span {
-    margin-left: -26px;
+/*    margin-left: -26px;*/
 }
 
 

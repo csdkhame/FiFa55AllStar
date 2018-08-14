@@ -98,7 +98,7 @@ $text_news = $fifa55Main.' ผู้ให้บริการ แทงบอ�
                         font-size: 20px;
                         font-family: 'thaisanslite', Arial, sans-serif;
                         ">
-                      <img src="http://www.fifa55hd.com/images/contact/svg/line.svg" style="max-width: 22px;" /> <span>@<?=$fifa55Main;?></span>
+                      <img src="http://www.fifa55hd.com/images/contact/svg/line.svg" style="max-width: 22px;" /> <span style="position: absolute;margin-left: 5px;">@<?=$fifa55Main;?></span>
                     </h4>
                   </span>
                 </div>
@@ -112,7 +112,7 @@ $text_news = $fifa55Main.' ผู้ให้บริการ แทงบอ�
                         font-family: 'thaisanslite', Arial, sans-serif;
                         
                         ">
-                      <img src="http://www.fifa55hd.com/images/contact/svg/facebook.svg" style="max-width: 22px;" /> <span><?=$fifa55Main;?></span>
+                      <img src="http://www.fifa55hd.com/images/contact/svg/facebook.svg" style="max-width: 22px;" /> <span style="position: absolute;margin-left: 5px;"><?=$fifa55Main;?></span>
                     </h4>
                   </span>
                 </div>
