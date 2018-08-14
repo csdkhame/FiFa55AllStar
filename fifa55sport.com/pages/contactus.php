@@ -93,10 +93,10 @@
         <div class="body-main-sub-in ">
           <p class="p-contact">  </p>
           <div class="message error" id="alerts-error-contact">
-            <em class="fa"></em> <span id="txt-error-contact"></span>		
+            <em class="fa"></em> <span id="txt-error-contact" style="font-family: 'thaisanslite', Arial, sans-serif;"></span>		
           </div>
           <div class="message success" id="alerts-success-contact">
-            <em class="fa"></em> <span id="txt-success-contact"></span>
+            <em class="fa"></em> <span id="txt-success-contact" style="font-family: 'thaisanslite', Arial, sans-serif;"></span>
             <em type="button" class="close" id="close-contact"><span aria-hidden="true">×</span></em>
           </div>
           <form id="contact_form" method="post" name="entryform">
@@ -104,16 +104,16 @@
               <tbody>
                 <tr>
                   <td>
-                    <input type="text" id="contact_name" name="contact_name" placeholder="ชื่อผู้ติดต่อ" autocomplete="off"></td>
+                    <input style="font-family: 'thaisanslite', Arial, sans-serif;" type="text" id="contact_name" name="contact_name" placeholder="ชื่อผู้ติดต่อ" autocomplete="off"></td>
                 </tr>
                 <tr>
                   <td>
-                    <input type="text" id="contact_phone" name="contact_phone" placeholder="หมายเลขโทรศัพท์" autocomplete="off">
+                    <input style="font-family: 'thaisanslite', Arial, sans-serif;" type="text" id="contact_phone" name="contact_phone" placeholder="หมายเลขโทรศัพท์" autocomplete="off">
                   </td>
                 </tr>
                 <tr>
                   <td>
-                    <textarea id="contact_detail" name="contact_detail" placeholder="รายละเอียด"></textarea>
+                    <textarea style="font-family: 'thaisanslite', Arial, sans-serif;" id="contact_detail" name="contact_detail" placeholder="รายละเอียด"></textarea>
                   </td>
                 </tr>
               </tbody>
@@ -159,23 +159,46 @@ var txt_blank = "กรุณากรอกข้อมูลให้ครบ
       $("#alerts-error-contact").fadeIn("slow");
       $("#contact_phone").addClass("requred-input");
       return false
-    } else {
+    } else {+
       $(".ajax-wait-contact").show();
       $("#contact_form input,textarea,input[type='submit']").prop("disabled", true);
-      $.post("http://www.fifa55hd.com/contactus/sendmail_ajax", {contact_name: contact_name, contact_phone: contact_phone, contact_detail: contact_detail}).done(function (data) {
-        if (data) {
-          $(".ajax-wait-contact").hide();
-          $("#alerts-error-contact").fadeOut("fast");
-          $("#txt-success-contact").text(txt_success);
-          $("#alerts-success-contact").fadeIn("slow");
-        } else {
-          $(".ajax-wait-contact").hide();
-          $("#txt-error-contact").text(txt_fail);
-          $("#alerts-error-contact").fadeIn("slow");
-        }
-        $("#contact_form :input,textarea,input[type='submit']").prop("disabled", false);
-        $("#contact_form :input,textarea").val("");
-      });
+      $.ajax({
+        type: 'POST',
+        url: './pages/sendcontact.php',
+        data: { contact_name: contact_name, contact_phone: contact_phone, contact_detail: contact_detail },
+            //contentType: "application/json",
+             dataType: 'json',
+            success: function(data) {
+              console.log(data)
+              if (data) {
+                var txt_success = 'สำเร็จ !! กรุณารอการติดต่อกลับจากเจ้าหน้าที่';
+                $(".ajax-wait-contact").hide();
+                $("#alerts-error-contact").fadeOut("fast");
+                $("#txt-success-contact").text(txt_success);
+                $("#alerts-success-contact").fadeIn("slow");
+              } else {
+                $(".ajax-wait-contact").hide();
+                $("#txt-error-contact").text(txt_fail);
+                $("#alerts-error-contact").fadeIn("slow");
+              }
+              $("#contact_form :input,textarea,input[type='submit']").prop("disabled", false);
+              $("#contact_form :input,textarea").val("");
+            }
+          });
+      // $.post("http://www.fifa55hd.com/contactus/sendmail_ajax", {contact_name: contact_name, contact_phone: contact_phone, contact_detail: contact_detail}).done(function (data) {
+      //   if (data) {
+      //     $(".ajax-wait-contact").hide();
+      //     $("#alerts-error-contact").fadeOut("fast");
+      //     $("#txt-success-contact").text(txt_success);
+      //     $("#alerts-success-contact").fadeIn("slow");
+      //   } else {
+      //     $(".ajax-wait-contact").hide();
+      //     $("#txt-error-contact").text(txt_fail);
+      //     $("#alerts-error-contact").fadeIn("slow");
+      //   }
+      //   $("#contact_form :input,textarea,input[type='submit']").prop("disabled", false);
+      //   $("#contact_form :input,textarea").val("");
+      // });
       return false;
     }
   });

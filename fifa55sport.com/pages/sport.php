@@ -42,31 +42,31 @@
         <p><span style="font-size:32px"><strong><span style="font-family:thsarabunnewregular">ขั้นตอนการเล่นบอลสเต็ปออนไลน์</span></strong></span></p>
         <p><span style="font-size:26px"><span style="font-family:thsarabunnewregular">1. เข้าเว็บไซต์&nbsp;<strong><a href="http://www.fifa55hd.com/" target="_blank"><span style="color:rgb(178, 34, 34)">www.fifa55.com</span></a></strong></span></span></p>
         <p><span style="font-size:26px"><span style="font-family:thsarabunnewregular">2. เมื่อเข้าสู่เว็บไซต์แล้ว ให้ทำการเข้าสู่ระบบ</span></span></p>
-        <p><img class="img-responsive" src="http://www.fifa54.com/backoffice/../files/com_howtoplay/2017-02/2017-02_879e09a7ebd454e.jpg"></p>
+        <p><img class="img-responsive" src="files/com_howtoplay/2017-02_879e09a7ebd454e.jpg"></p>
         <p>&nbsp;</p>
         <p><span style="font-size:26px"><span style="font-family:thsarabunnewregular">3. เมื่อเข้าสู่ระบบแล้ว ให้เลือกเมนู สเต็ป</span></span></p>
-        <p><img class="img-responsive" src="http://www.fifa54.com/backoffice/../files/com_howtoplay/2017-02/2017-02_1b74cec3a31ecf2.jpg"></p>
+        <p><img class="img-responsive" src="files/com_howtoplay/2017-02_1b74cec3a31ecf2.jpg"></p>
         <p><span style="font-size:26px"><span style="font-family:thsarabunnewregular">4. จากนั้นให้ทำการเลือกทีมและราคาบอลที่จะเล่น แล้วกดตกลง</span></span></p>
-        <p><img class="img-responsive" src="http://www.fifa54.com/backoffice/../files/com_howtoplay/2017-02/2017-02_49d8c9849602ce7.jpg"></p>
+        <p><img class="img-responsive" src="files/com_howtoplay/2017-02_49d8c9849602ce7.jpg"></p>
         <p><span style="font-size:26px"><span style="font-family:thsarabunnewregular">5. รายละเอียดบอลที่เล่นจะขึ้นทางฝั่งซ้ายมือ</span></span></p>
-        <p><img class="img-responsive" src="http://www.fifa54.com/backoffice/../files/com_howtoplay/2017-02/2017-02_33fe5a2767a36bf.jpg"></p>
+        <p><img class="img-responsive" src="files/com_howtoplay/2017-02_33fe5a2767a36bf.jpg"></p>
         <p><span style="font-size:26px"><span style="font-family:thsarabunnewregular">6. สามารถตรวจสอบบิลได้ที่ยอดเล่นค้าง ระบบจะแสดงบิลการเล่น</span></span></p>
-        <p><img class="img-responsive" src="http://www.fifa54.com/backoffice/../files/com_howtoplay/2017-02/2017-02_fd4709351437e63.jpg"></p>
+        <p><img class="img-responsive" src="files/com_howtoplay/2017-02_fd4709351437e63.jpg"></p>
         <p>&nbsp;</p>
         <p><span style="font-size:32px"><strong><span style="font-family:thsarabunnewregular">ขั้นตอนการเล่นบอลเต็งออนไลน์</span></strong></span></p>
         <p><span style="font-size:26px"><span style="font-family:thsarabunnewregular">1. เข้าเว็บไซต์&nbsp;<strong><a href="http://www.fifa55hd.com/" target="_blank"><span style="color:rgb(178, 34, 34)">www.fifa55.com</span></a></strong></span></span></p>
         <p><span style="font-size:26px"><span style="font-family:thsarabunnewregular">2. เมื่อเข้าสู่เว็บไซต์แล้ว ให้ทำการเข้าสู่ระบบ</span></span></p>
-        <p><img class="img-responsive" src="http://www.fifa54.com/backoffice/../files/com_howtoplay/2017-02/2017-02_4587d7bb1c8bb53.jpg"></p>
+        <p><img class="img-responsive" src="files/com_howtoplay/2017-02_4587d7bb1c8bb53.jpg"></p>
         <p>&nbsp;</p>
         <p><span style="font-size:26px"><span style="font-family:thsarabunnewregular">3. เมื่อเข้าสู่ระบบแล้ว ให้เลือกเมนูวันนี้</span></span></p>
-        <p><img class="img-responsive" src="http://www.fifa54.com/backoffice/../files/com_howtoplay/2017-02/2017-02_bc2517782432d98.jpg"></p>
+        <p><img class="img-responsive" src="files/com_howtoplay/2017-02_bc2517782432d98.jpg"></p>
         <p>&nbsp;</p>
         <p><span style="font-size:26px"><span style="font-family:thsarabunnewregular">4. จากนั้นให้ทำการเลือกทีมที่ต้องการจะเล่น และจำนวนเงินที่ต้องการ แล้วกดตกลง</span></span></p>
-        <p><img class="img-responsive" src="http://www.fifa54.com/backoffice/../files/com_howtoplay/2017-02/2017-02_de5c3254abdde7f.jpg"></p>
+        <p><img class="img-responsive" src="files/com_howtoplay/2017-02_de5c3254abdde7f.jpg"></p>
         <p>&nbsp;</p>
         <p><span style="font-size:26px"><span style="font-family:thsarabunnewregular">5. รายละเอียดบอลที่เล่นจะขึ้นทางฝั่งซ้ายมือ</span></span></p>
         <p><span style="font-size:26px"><span style="font-family:thsarabunnewregular">6. สามารถตรวจสอบบิลได้ที่ยอดเล่นค้าง ระบบจะแสดงบิลการเล่น</span></span></p>
-        <p><img class="img-responsive" src="http://www.fifa54.com/backoffice/../files/com_howtoplay/2017-02/2017-02_064cfcb55b5f8b4.jpg"></p>
+        <p><img class="img-responsive" src="files/com_howtoplay/2017-02_064cfcb55b5f8b4.jpg"></p>
         
       </div>
     </div>

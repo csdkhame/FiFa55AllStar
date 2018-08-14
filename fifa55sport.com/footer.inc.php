@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-xs-12 col-md-4">
           <p>
-            <img alt="logo-footer" class="logo" src="images/logo-footer.png">
+            <img alt="logo-footer" class="logo" src="images/logo-footer.png?v=2">
           </p>
           <p class="foot-txt">
             <span style="color: #ff665a;"><?=$fifa55Main;?></span>  เว็บแทงพนันออนไลน์ ที่มั่นคง เล่นง่าย ราคาดี เพิ่มความมั่นใจให้คุณอีก 100% ด้วยบริการ <br />ฝาก - ถอน รวดเร็วทันใจ ตลอด 24 ชั่วโมง					</p>
@@ -20,26 +20,22 @@
         <!-- /.row -->
         <div class="col-xs-12 col-md-2">
           <div class="widget_nav_menu">
-            <h6 class="footer-top__headings">FOOTBALL</h6>
+            <h6 class="footer-top__headings">บอล หวย คาสิโน</h6>
             <ul class="list-1">
-              <li><a href="http://www.fifa55hd.com/livescore/index/ผลบอลสด">ผลบอลสด</a></li>
-              <li><a href="http://www.fifa55hd.com/dooball/index/ดูบอลออนไลน์">ดูบอลออนไลน์</a></li>
-              <li><a href="http://www.fifa55hd.com/tdedball/index/ตารางแข่งขันฟุตบอล">ตารางแข่งขันฟุตบอล</a></li>
-              <li><a href="http://www.fifa55hd.com/news/index/ข่าวฟุตบอล">ข่าวฟุตบอล</a></li>
-              <li><a href="http://www.fifa55hd.com/hilight/index/ไฮไลท์ฟุตบอล">ไฮไลท์ฟุตบอล</a></li>
-              <li><a href="http://www.fifa55hd.com/service/sport/">แทงบอลเต็ง, แทงบอลสเต็ป</a></li>	
+              <li><a href="index.php?pages=sport">แทงบอลออนไลน์ </a></li>
+              <li><a href="index.php?pages=lotto">แทงหวยออนไลน์ </a></li>
+              <li><a href="index.php?pages=lotto">แทงมวยออนไลน์ </a></li>
+              <li><a href="index.php?pages=casino">คาสิโนออนไลน์ </a></li>	
             </ul>
           </div>
         </div>
         <div class="col-xs-12 col-md-2">
           <div class="widget_nav_menu">
-            <h6 class="footer-top__headings">ALL IN ONE</h6>
+            <h6 class="footer-top__headings">อัพเดทข่าวโปรโมชั่น</h6>
             <ul class="list-1">
-              <li><a href="http://www.fifa55hd.com/service/lotto/แทงหวยออนไลน์">แทงหวยออนไลน์</a></li>
-              <li><a href="http://www.fifa55hd.com/service/casino/">แทงคาสิโน, บาคาร่า </a></li>
-              <li><a href="http://www.fifa55hd.com/service/basketball/แทงบาสออนไลน์ ">แทงบาสออนไลน์ </a></li>
-              <li><a href="http://www.fifa55hd.com/service/boxxing/แทงมวยออนไลน์ ">แทงมวยออนไลน์ </a></li>
-              <li><a href="http://www.fifa55hd.com/service/cocks/ไก่ชนออนไลน์">ไก่ชนออนไลน์</a></li>
+              <li><a href="index.php?pages=promotion">สมัครใหม่รับ 20% </a></li>
+              <li><a href="index.php?pages=promotion">ฝากเงินรับโบนัส 5% </a></li>
+              <li><a href="index.php?pages=promotion">บริการคืนเงิน 5-10% </a></li>
               <li class="before-none"><a>&nbsp;</a></li>
             </ul>	
           </div>
@@ -47,14 +43,12 @@
         <!-- /.row -->
         <div class="col-xs-12 col-md-2">
           <div class="widget_nav_menu">
-            <h6 class="footer-top__headings">HELP &amp; SUPPORT</h6>
+            <h6 class="footer-top__headings">ข้อแนะนำการเล่น</h6>
             <ul class="list-1">
-              <li><a href="http://www.fifa55hd.com/agency/index/สมัครเอเย่นต์ ">สมัครเอเย่นต์ </a></li>  
-              <li><a href="http://www.fifa55hd.com/aboutus/index/เกี่ยวกับเรา">เกี่ยวกับเรา</a></li>
-              <li><a href="http://www.fifa55hd.com/contactus/index/ติดต่อเรา">ติดต่อเรา</a></li>
-              <li><a href="http://www.fifa55hd.com/withdraw/index/ฝาก-ถอน">ฝาก-ถอน</a></li>
-              <li><a href="http://www.fifa55hd.com/howtoplay/index/วิธีการเล่น">วิธีการเล่น</a></li>
-              <li class="before-none"><a>&nbsp;</a></li>
+              <li><a href="index.php?pages=withdraw">ขั้นตอนการฝากเงิน </a></li>  
+              <li><a href="index.php?pages=withdraw">ขั้นตอนการถอนเงิน </a></li>
+              <li><a href="index.php?pages=withdraw">ขั้นตอนการเล่นบอล สเต็ปและบอลเต็ง </a></li>
+              <li><a href="index.php?pages=withdraw">ขั้นตอนการใช้บนมือถือ </a></li>
             </ul>	
           </div>
           <!-- /.widget_nav_menu -->
@@ -62,13 +56,11 @@
         <!-- /.row -->
         <div class="col-xs-12 col-md-2">
           <div class="widget_nav_menu">
-            <h6 class="footer-top__headings">LEARN HOW TO</h6>
+            <h6 class="footer-top__headings">คำถามที่พบบ่อย</h6>
             <ul class="list-1">
-              <li><a href="http://www.fifa55hd.com/register/index/สมัครสมาชิก">สมัครสมาชิก</a></li>
-              <li><a href="http://www.fifa55hd.com/promotion/index/โปรโมชั่น">โปรโมชั่น</a></li>
-              <li><a href="http://www.fifa55hd.com/agency/index/สมัครเอเย่นต์ ">สมัครเอเย่นต์ </a></li>  
-              <li><a href="http://www.fifa55hd.com/howtoplay/index/วิธีการเล่น">วิธีการเล่น</a></li>
-              <li><a href="http://www.fifa55hd.com/linktoplay/index/ทางเข้าเล่น">ทางเข้าเล่น</a></li>
+              <li><a href="index.php?pages=index#about">FIFA55 คืออะไร ? </a></li>
+              <li><a href="index.php?pages=index#about">ทำไมต้องแทงบอลกับ FIFA55 ? </a></li>
+              <li><a href="index.php?pages=index#better">เดิมพันกับเว็บเราดีอย่างไร ? </a></li>  
               <li class="before-none"><a>&nbsp;</a></li>
             </ul>	
           </div>
@@ -83,7 +75,8 @@
   <!-- /.footer-top -->
   <div class="footer-bottom">
     <div class="container">
-      <div class="footer-bottom__left">
+      <div class="footer-bottom__left" style="font-size: 20px;
+    font-family: 'thaisanslite', Arial, sans-serif;">
 <?=$fifa55Main;?> © <?=date('Y');?> all right reserved. <!-- Powered By <a href=""></a> -->
       </div>
       <div class="footer-bottom__right"></div>
@@ -162,7 +155,7 @@
 <div class="me-contel"> สมัคร FIFA55 คลิกที่นี่ <a href="https://line.me/R/ti/p/%40fifa55hd" class="btns btn-add-line my-2">Add Line</a></div>
 
 <a id="banner-pop" style="display: none; cursor: pointer;"><img class="img-responsive" src="images/fifa55-popup.html"  onclick="closeFunction();" /></a>
-<link href="style/core_sub.css" rel="stylesheet" type="text/css" />
+<link href="style/core_sub.css?v=1" rel="stylesheet" type="text/css" />
 <link href="style/style-switcher.css" rel="stylesheet" />
 <!-- FontAwesome 4.3.0 -->
 <link href="plugins/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />

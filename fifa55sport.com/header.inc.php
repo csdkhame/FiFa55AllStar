@@ -53,7 +53,7 @@ $text_news = $fifa55Main.' ผู้ให้บริการ แทงบอ�
           <header class="header">
             <div class="header__logo">
               <a class="logo" href="index.php?pages=index">
-                <img class="img-responsive" src="images/logo/logo-top.png" alt="fifa55hd" />
+                <img class="img-responsive" src="images/logo/logo-top.png?v=1" alt="fifa55hd" />
               </a>
               <div id="mobile-header">
                 <a id="responsive-menu-button" href="#sidr-main">
