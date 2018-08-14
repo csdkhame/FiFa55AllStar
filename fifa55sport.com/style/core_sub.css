@@ -8504,13 +8504,23 @@ a.btn-2:hover, input[type=button].btn-2:hover, input[type=submit].btn-2:hover, b
     font: 22px/20px 'thaisanslite', Arial, sans-serif;
 }
 
-.promotion-theme{
-/*	background: url('../images/promotion/bg-lead.jpg');*/
+@media (max-width: 900px){
+    .promotion-theme{
+	  	background-color: #000;
+	}
+  }
+  @media (min-width:900px){
+    .promotion-theme{
+	  	background: url('../images/promotion/bg-lead.png');
+		background-repeat: no-repeat;
+	  	background-size: 100%;
+	}
+  }
+/*.promotion-theme{
 	background: url('../images/promotion/bg-lead.png');
 	background-repeat: no-repeat;
   	background-size: 100%;
-/*  	background-color: #000;*/
-}
+}*/
 
 .promotion-theme .wrapper {
 	background: none;
