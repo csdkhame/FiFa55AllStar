@@ -8505,9 +8505,11 @@ a.btn-2:hover, input[type=button].btn-2:hover, input[type=submit].btn-2:hover, b
 }
 
 .promotion-theme{
-	background: url('../images/promotion/bg-lead.jpg');
+/*	background: url('../images/promotion/bg-lead.jpg');*/
+	background: url('../images/promotion/bg-lead.png');
 	background-repeat: no-repeat;
   	background-size: 100%;
+/*  	background-color: #000;*/
 }
 
 .promotion-theme .wrapper {
