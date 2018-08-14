@@ -98,20 +98,21 @@ $text_news = $fifa55Main.' ผู้ให้บริการ แทงบอ�
                         font-size: 20px;
                         font-family: 'thaisanslite', Arial, sans-serif;
                         ">
-                      <img src="http://www.fifa55hd.com/images/contact/svg/line.svg" style="max-width: 22px;" /> @<?=$fifa55Main;?>
+                      <img src="http://www.fifa55hd.com/images/contact/svg/line.svg" style="max-width: 22px;" /> <span>@<?=$fifa55Main;?></span>
                     </h4>
                   </span>
                 </div>
               </div>
               <div class="widget-icon-box wow zoomIn" data-wow-delay="0.6s" >
-                <div class="icon-box" style="cursor: pointer;background-color: #fff;padding: 8px;border-radius: 20px 0px 0px 20px;">
+                <div class="icon-box" style="cursor: pointer;background-color: #fff;padding: 8px;border-radius: 20px 0px 0px 20px;margin-right: 85px;">
                   <span style="margin-top: -3px;" class="icon-box-subtitle" onclick="window.open('http://fifa55hd.com/', '_blank')">
                     <h4 class="icon-box-title" style="
                         min-width: 125px;
                         font-size: 20px;
                         font-family: 'thaisanslite', Arial, sans-serif;
+                        
                         ">
-                      <img src="http://www.fifa55hd.com/images/contact/svg/facebook.svg" style="max-width: 22px;" /> <?=$fifa55Main;?>
+                      <img src="http://www.fifa55hd.com/images/contact/svg/facebook.svg" style="max-width: 22px;" /> <span><?=$fifa55Main;?></span>
                     </h4>
                   </span>
                 </div>
