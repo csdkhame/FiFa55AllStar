@@ -49,7 +49,7 @@
                 <span style="font-family:thaisanslite">
                   2. สแกน QR Code
                 </span>
-                <div><img src="images/QR.jpg" width="120" /></div>
+                <div><img src="images/QR.jpg" style="width: 190px;  margin-left: 20px;" /></div>
               </span>
             </li>
             <li>
