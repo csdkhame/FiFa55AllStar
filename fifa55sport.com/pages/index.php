@@ -1,24 +1,11 @@
 
-<div class="outter-wrapper body-wrapper promotion-theme" style=" /*background-color: #000000;*/ background: url(images/bg_index.png);
+<div class="outter-wrapper body-wrapper promotion-theme hidden-md" style="background: url(images/bg_index.png);
     background-repeat: no-repeat;
     background-size: 100%;    background-size: 1920px 490px;">
-    <img src="images/promo_index.png" width="100%" class="hidden-md">
-    <div class="hidden-lg">
-    <img src="images/promotion_mb/v2/promo.png" />
-    </div>
-  <div class="wrapper section-promotion clearfix" style="    padding-bottom: 0px; margin-top: 0px; display: none;">
+    <img src="images/promo_index.png" width="100%" class="">
+   
+  <div class="wrapper section-promotion clearfix" style="    padding-bottom: 0px; margin-top: 0px;display: none;">
     <div class="row">
-      <div class="">
-        <img src="images/promo_index.png" width="100%" style="   " >
-      </div>
-      
-
-      <div class="col-md-4 hidden-sm hidden-md hidden-xs"  style="display: none;z-index: 10;">
-        <div class="asia-relative hidden-lg-down">
-          <div class="asia-img-ab"> <img src="img/girl2.png" alt="FIFA55 Girl Brand" style="margin-top: -50px;margin-left: 70px;width: 400px;"></div>
-        </div>
-      </div>
-
       <div class="col-md-8 col-xl-5 pr-xl-0 mr-xl-0 hidden-md hidden-xs"  style="display: none;">
         <div class="row py-3">
           <div class="col-md-12">
@@ -103,10 +90,25 @@
 
       </div>
     </div>
-    <div class="row" style="height:0px;"></div>
+    
 <!--<img src="img/promo.png" />-->
   </div>
 </div>
+
+ <div class="hidden-lg" >
+    	<!--<img src="images/promotion_mb/promoV3/bg.png" />-->
+    	<div style="background: url(images/promotion_mb/promoV3/bg.png);height: 500px;">
+    		<img src="images/promotion_mb/promoV3/สมัครง่ายๆ.png" style="position: absolute;width: 200px;right: 0;" />
+    		<img src="images/promotion_mb/promoV3/ข้อ1.png" style="margin-top: 55px;" />
+    		<img src="images/promotion_mb/promoV3/ข้อ2.png" style="margin-left: -20px;" />
+    		<img src="images/promotion_mb/promoV3/ข้อ3.png" style="margin-left: -20px;"/>
+    		<img src="images/promotion_mb/promoV3/girl.png" style="    width: 200px;position: absolute;right: -20px;top: 280px;" />
+    		<img src="images/promotion_mb/promoV3/ฝากถอน 24 ชม.png" style="width: 200px;" />
+    		<img src="images/promotion_mb/promoV3/logo.png" style="width: 160px;position:  absolute;right: 0px;margin-top: 10px;" />
+    	</div>
+    	<!--<img src="images/promotion_mb/promoV3/logo.png" />-->
+    </div>
+
 <div class="header-top" style="border-top: 1px solid #c1212c;">
   <div class="auto-container clearfix" style="font-family: 'thaisanslite', Arial, sans-serif;">
     <!-- Top Left -->
