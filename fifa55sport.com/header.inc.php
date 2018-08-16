@@ -20,7 +20,7 @@ $text_news = 'FIFA55 ผู้ให้บริการ แทงบอลอ�
     <!-- Style Sheets -->
     <link href="font.css" rel="stylesheet" type="text/css" />
     <!-- Styling -->
-    <link href="style/core.css?v=2.5" rel="stylesheet">
+    <link href="style/core.css?v=2.6" rel="stylesheet">
   </head>
   <body>
     <!-- MAIN PAGE CONTAINER -->
