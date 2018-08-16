@@ -26,6 +26,11 @@
     .hidden-md{
       display: none;
     }
+    .contract_social{
+		cursor: pointer;
+		margin-top: -7px;
+		width: 150px;
+	}
   }
   .asia-main, .asia-relative, .asia-step, .asia-step-img {
     position: relative;
@@ -38,12 +43,19 @@
     .hidden-lg{
       display:none!important
     }
+    .contract_social{
+		cursor: pointer;
+		margin-top: -7px;
+		width: 220px;
+	}
   }
+  
 </style>
 <div class="outter-wrapper body-wrapper promotion-theme" style=" /*background-color: #000000;*/ background: url(images/bg_index.png);
     background-repeat: no-repeat;
     background-size: 100%;    background-size: 1920px 490px;">
-  <div class="wrapper section-promotion clearfix" style="    padding-bottom: 0px; margin-top: 0px;">
+    <img src="images/promo_index.png" width="100%" style="   " >
+  <div class="wrapper section-promotion clearfix" style="    padding-bottom: 0px; margin-top: 0px; display: none;">
     <div class="row">
       <div class="">
         <img src="images/promo_index.png" width="100%" style="   " >
