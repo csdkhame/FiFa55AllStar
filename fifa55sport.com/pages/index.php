@@ -237,7 +237,7 @@
 </div>
 <div class="section-all-service clearfix">
   <div class="col-md-12 last no-padding">
-    <img class="img-responsive wow flash" data-wow-delay="2s" src="images/service/all-service2.png"> 
+    <img class="img-responsive wow flash" data-wow-delay="2s" src="images/service/all-service2.jpg"> 
   </div>
 </div>
 <div class="outter-wrapper body-wrapper wrapper-feature" id="better">
@@ -265,8 +265,8 @@
                     <!--<i class="fa fa-futbol-o fa-4x"></i>-->
                   </div>
                   <div class="media-body">
-                    <h4 class="media-heading">FIFA55 เว็บคุณภาพ บริการ 24 ชม.</h4>
-                    สมาชิก FIFA55 ที่เข้ามาเดิมพันกับทางเว็บ FIFA55 ไม่ต้องกังวลทางทีมงานพร้อมให้บริการอย่างเต็มที่โดยไร้ปัญหา
+                    <h4 class="media-heading"><?=$fifa55;?> เว็บคุณภาพ บริการ 24 ชม.</h4>
+                    สมาชิก <?=$fifa55;?> ที่เข้ามาเดิมพันกับทางเว็บ <?=$fifa55;?> ไม่ต้องกังวลทางทีมงานพร้อมให้บริการอย่างเต็มที่โดยไร้ปัญหา
                   </div>
                 </div>
                 <!--media-->
@@ -277,8 +277,8 @@
                     <!--<i class="fa fa-futbol-o fa-4x"></i>-->
                   </div>
                   <div class="media-body">
-                    <h4 class="media-heading">FIFA55 การเงินมั่นคง จ่ายจริง </h4>
-                    <?=$fifa55Main;?> เว็บตรงจาก FIFA55 ไม่ผ่านเอเย่นต์ การเงินมั่นคง จ่ายจริง จ่ายไว จ่ายไม่อั้น
+                    <h4 class="media-heading"><?=$fifa55;?> การเงินมั่นคง จ่ายจริง </h4>
+                    <?=$fifa55;?> เว็บตรงจาก <?=$fifa55;?> ไม่ผ่านเอเย่นต์ การเงินมั่นคง จ่ายจริง จ่ายไว จ่ายไม่อั้น
                   </div>
                 </div>
                 <!--media-->
@@ -289,8 +289,8 @@
                     <!--<i class="fa fa-futbol-o fa-4x"></i>-->
                   </div>
                   <div class="media-body">
-                    <h4 class="media-heading">FIFA55 โปรโมชั่นแจกแหลก</h4>
-                    FIFA55 เดิมพันออนไลน์สุดคุ้ม กับโปรโมชั่นสนุก ๆ ลุ้นรับรางวัลใหญ่ ที่ทางเราจัดให้สมาชิกกันตลอด
+                    <h4 class="media-heading"><?=$fifa55;?> โปรโมชั่นแจกแหลก</h4>
+                    <?=$fifa55;?> เดิมพันออนไลน์สุดคุ้ม กับโปรโมชั่นสนุก ๆ ลุ้นรับรางวัลใหญ่ ที่ทางเราจัดให้สมาชิกกันตลอด
                   </div>
                 </div>
                 <!--media-->
@@ -301,8 +301,8 @@
                     <!--<i class="fa fa-futbol-o fa-4x"></i>-->
                   </div>
                   <div class="media-body">
-                    <h4 class="media-heading">FIFA55 รวมทุกอย่างไว้ในบัญชีเดียว</h4>
-                    FIFA55 เดิมพันกีฬาออนไลน์หลายชนิด ไก่ชนออนไลน์ เล่นคาสิโนแบบสดๆ ทั้งหมดนี้อยู่ในบัญชีใช้งาน เพียงบัญชีเดียว !!
+                    <h4 class="media-heading"><?=$fifa55;?> รวมทุกอย่างไว้ในบัญชีเดียว</h4>
+                    <?=$fifa55;?> เดิมพันกีฬาออนไลน์หลายชนิด ไก่ชนออนไลน์ เล่นคาสิโนแบบสดๆ ทั้งหมดนี้อยู่ในบัญชีใช้งาน เพียงบัญชีเดียว !!
                   </div>
                 </div>
                 <!--media-->
@@ -313,8 +313,8 @@
                     <!--<i class="fa fa-futbol-o fa-4x"></i>-->
                   </div>
                   <div class="media-body">
-                    <h4 class="media-heading">FIFA55 เล่นผ่านมือถือ ทุกที่ ทุกเวลา</h4>
-                    FIFA55 เล่นผ่านมือถือได้ตลอดทั้งวัน สะดวกสบาย ประหยัดเวลา ถูกใจนักเดิมพันที่เดินทางอยู่สม่ำเสมอ
+                    <h4 class="media-heading"><?=$fifa55;?> เล่นผ่านมือถือ ทุกที่ ทุกเวลา</h4>
+                    <?=$fifa55;?> เล่นผ่านมือถือได้ตลอดทั้งวัน สะดวกสบาย ประหยัดเวลา ถูกใจนักเดิมพันที่เดินทางอยู่สม่ำเสมอ
                   </div>
                 </div>
                 <!--media-->
@@ -325,8 +325,8 @@
                     <!--<i class="fa fa-futbol-o fa-4x"></i>-->
                   </div>
                   <div class="media-body">
-                    <h4 class="media-heading">ถ่ายทอดสดติดขอบสนามที่ FIFA55HD</h4>
-                    สามารถรับชมการถ่ายทอดสดฟุตบอลได้ทุกลีกทั่วโลกที่ <?=$fifa55Main;?> คมชัดระดับ HD และไม่มีโฆษณามากวนใจตลอดการแข่งขันที่นี่
+                    <h4 class="media-heading">ถ่ายทอดสดติดขอบสนามที่ <?=$fifa55;?></h4>
+                    สามารถรับชมการถ่ายทอดสดฟุตบอลได้ทุกลีกทั่วโลกที่ <?=$fifa55;?> คมชัดระดับ HD และไม่มีโฆษณามากวนใจตลอดการแข่งขันที่นี่
                   </div>
                 </div>
                 <!--media-->
