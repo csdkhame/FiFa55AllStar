@@ -245,7 +245,7 @@
     <div class="col-xs-12">
       <div class="simple-column">
         <div class="heading heading-12 feature-des">
-          <h1 class="wow zoomInUp" style="font-size: 31px;">เดิมพันออนไลน์ <?=$fifa55Main;?> ดีกว่ายังไง ?</h1>
+          <h1 class="wow zoomInUp" style="font-size: 31px;">เดิมพันออนไลน์ <?=$fifa55;?> ดีกว่ายังไง ?</h1>
           <div class="descript-about">
             <div class="row" id="sec4">
               <!-- rows -->
