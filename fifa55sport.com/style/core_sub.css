@@ -5337,6 +5337,16 @@ a>img.alignnone {
 		    background-size: 1920px 593px !important;
 	}
 }
+@media screen and (max-width: 414px) {
+/*@media ( min-width : 1920px) {*/
+	.outter-wrapper {
+		    background-size: 414px 200px !important;
+	}
+	.hidden-lg img{
+		    width: 411px;
+	}
+}
+
 .widget_search .search-submit .fa {
 	vertical-align: 0;
 }
