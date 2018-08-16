@@ -40,13 +40,13 @@
     }
   }
 </style>
-<div class="outter-wrapper body-wrapper promotion-theme" style=" background-color: #000000;   /*background: url(images/bg_index.png);*/
+<div class="outter-wrapper body-wrapper promotion-theme" style=" /*background-color: #000000;*/ background: url(images/bg_index.png);
     background-repeat: no-repeat;
-    background-size: 100%;">
+    background-size: 100%;    background-size: 1920px 490px;">
   <div class="wrapper section-promotion clearfix" style="    padding-bottom: 0px; margin-top: 0px;">
     <div class="row">
-      <div class="col-md-12">
-        <img src="images/promo_index.png" width="100%" style="margin-top: -10px;" >
+      <div class="">
+        <img src="images/promo_index.png" width="100%" style="   " >
       </div>
       
 
@@ -172,14 +172,14 @@
       <div class="col-xs-12">
         <div class="simple-column">
           <div class="heading heading-12">
-            <h1 class="wow zoomInUp" style="font-size: 34px;"><span class="left"></span>FIFA55 บริการเดิมพันออนไลน์อันดับ 1<span class="right"></span></h1>
+            <h1 class="wow zoomInUp" style="font-size: 34px;"><span class="left"></span>FIFA55 เว็บแทงบอลออนไลน์อันดับ 1<span class="right"></span></h1>
             <div class="wow fadeIn descript-about" data-wow-delay="1.2s" data-wow-duration="1s">
-              <p>FIFA55 เว็บออนไลน์อันดับหนึ่ง เว็บตรง มั่นคง ปลอดภัย 100%</p>
-              <p><span style="color:#000000"><?=$fifa55Main;?>.COM</span>&nbsp;เว็บแทงบอลออนไลน์ หวยออนไลน์ คาสิโนออนไลน์ และอื่นๆ</p>
-              <p>FIFA55&nbsp;เว็บแทงบอลออนไลน์ คาสิโนออนไลน์ <?=$fifa55Main;?> เป็นเว็บที่ไม่ผ่านเอเย่นต์ แก้ปัญหาเรื่องการโกงจากตัวแทนต่างๆ FIFA55&nbsp;ฉีกกฎของเว็บแทงบอลเดิมๆ ที่คุณเคยใช้งานอยู่ และจุดเด่น <?=$fifa55Main;?>&nbsp;คือ รวมทุกอย่างไว้ในไอดีเดียวเลย&nbsp;</p>
-              <p>FIFA55&nbsp;มีทีมงานคุณภาพ และมีออฟฟิศจริง&nbsp;อยู่ที่ สำนักงานใหญ่ อาคาร Princess Holiday Palace ปอยเปตประเทศกัมพูชา เพื่อตอบสนองความต้องการของนักเสี่ยงโชคทุกท่าน&nbsp;&nbsp;<?=$fifa55Main;?>&nbsp;มีบริการ Call Center 24 ชั่วโมง รองรับการสมัครหรือสอบถามข้อมูลต่างๆ</p>
-              <p>FIFA55&nbsp;มีช่องทางอื่นๆ ผ่านทางสื่อต่างอีกมากมาย ทั้งทางโทรศัพท์ Line, &nbsp;Line@, Facebook, Livechat, E-mail</p>
-              <p><?=$fifa55Main;?> ได้เพิ่มช่องทางการติดต่อให้ทันสมัยอยู่ตลอดเวลา เพื่อป้องกันการที่สมาชิกของ&nbsp;FIFA55 จะหาช่องทางการติดต่อกับเราไม่ได้</p>
+              <p>FIFA55 เว็บแทงบอลออนไลน์อันดับหนึ่ง รวดเร็ว มั่นคง ทันสมัยและปลอดภัย 100%</p>
+              <p>อีกทั้ง FIFA55 ยังเป็นเว็บที่ได้รับความนิยมมากที่สุด มีราคาหน้าบอลที่เป็นธรรม และเหมาะสมกับคนไทย</p>
+              <p>มีระบบการเล่นที่ถูกพัฒนาเพื่อคนไทย รองรับเมนูภาษาไทย เพื่อให้คนไทยเข้าใจง่าย</p>
+              <p>เว็บ FIFA55 เป็นเว็บแทงบอลที่ไม่ผ่านเอเย่นต์ จัดการกับปัญหาการโกงจากเว็บอื่นๆ แถมยังฉีกกฏของ เว็บแทงบอลเดิมๆ โดยที่จุดเด่นสุดของ FIFA55 คือรวมทุกอย่างไว้ในไอดีเดียว ทั้งบอล หวย มวย คาสิโน ฯลฯ</p>
+              <p>แถมยังมีการบริการตลอด 24 ชั่วโมงด้วยทีมงานมืออาชีพ รองรับการสมัครหรือสอบถามแก้ไขปัญหาได้ตลอดเวลา</p>
+              <p>อีกทั้ง FIFA55 ยังได้เพิ่มช่องทางการติดต่อให้ทันสมัย เหมาะกับทุกคน เพื่อให้สมาชิกของเราติดต่อเราตลอดเวลา</p>
             </div>
           </div>
         </div>
@@ -192,7 +192,7 @@
 <div class="outter-wrapper divider-pro"></div>
 <div class="outter-wrapper body-wrapper regist-theme">
   <div class="wrapper ad-pad clearfix" style="padding-bottom: 0em;background-color: #1f1f1f ;">
-    <div class="row box-highlight" align="center">
+    <div class="row box-highlight container " align="center">
       <div class="itemhov itemhov-type-line wow pulse">
         <div style="width:3.2em;"></div>
       </div>

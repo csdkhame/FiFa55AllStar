@@ -5331,7 +5331,12 @@ a>img.alignnone {
 		width: 20%;
 	}
 }
-
+@media screen and (max-width: 1920px) {
+/*@media ( min-width : 1920px) {*/
+	.outter-wrapper {
+		    background-size: 1920px 593px !important;
+	}
+}
 .widget_search .search-submit .fa {
 	vertical-align: 0;
 }
@@ -7962,7 +7967,7 @@ rotate
 }
 
 .wrapper {
-    max-width: 1160px;
+    /*max-width: 1160px;*/
     margin: 0 auto;
     background: #fff; 
     -webkit-box-sizing: border-box;
