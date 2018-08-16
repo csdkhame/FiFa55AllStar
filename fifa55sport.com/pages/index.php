@@ -41,16 +41,20 @@
   }
 </style>
 <div class="outter-wrapper body-wrapper promotion-theme">
-  <div class="wrapper section-promotion clearfix" style="padding-bottom: 0px;">
+  <div class="wrapper section-promotion clearfix" style="    padding-bottom: 20px; margin-top: 0px;">
     <div class="row">
+      <div class="col-md-12">
+        <img src="images/promotion/promo.png" width="100%" style="margin-top: -10px;" >
+      </div>
+      
 
-      <div class="col-md-4 hidden-sm hidden-md hidden-xs"  style="display: nones;z-index: 10;">
+      <div class="col-md-4 hidden-sm hidden-md hidden-xs"  style="display: none;z-index: 10;">
         <div class="asia-relative hidden-lg-down">
           <div class="asia-img-ab"> <img src="img/girl2.png" alt="FIFA55 Girl Brand" style="margin-top: -50px;margin-left: 70px;width: 400px;"></div>
         </div>
       </div>
 
-      <div class="col-md-8 col-xl-5 pr-xl-0 mr-xl-0 hidden-md hidden-xs"  style="display: nones;">
+      <div class="col-md-8 col-xl-5 pr-xl-0 mr-xl-0 hidden-md hidden-xs"  style="display: none;">
         <div class="row py-3">
           <div class="col-md-12">
             <div class="asia-step">
@@ -92,8 +96,7 @@
           </div>
         </div>
       </div>
-
-      <div class="col-md-8 col-xl-5 pr-xl-0 mr-xl-0 hidden-lg"  style="display: nones;">
+      <div class="col-md-8 col-xl-5 pr-xl-0 mr-xl-0 hidden-lg"  style="display: none;">
         <div class="col-md-12">
           <img src="img/fix/fix1.png" alt="สมัคร FIFA55 Step 1" width="100%" />
           <div class="asia-step" style="display: none;">
@@ -135,6 +138,7 @@
 
       </div>
     </div>
+    <div class="row" style="height:10px;"></div>
 <!--<img src="img/promo.png" />-->
   </div>
 </div>
@@ -191,7 +195,7 @@
         <div style="width:3.2em;"></div>
       </div>
       <div class="itemhov itemhov-type-line wow pulse" data-wow-delay="0.2s">
-        <div class="itemhov-img"><img src="images/service/service.png" /></div>
+        <div class="itemhov-img"><img src="images/service/service.png?v=1" /></div>
       </div>
       <div class="itemhov itemhov-type-line wow pulse" data-wow-delay="0.2s">
         <a class="itemhov-hover" href="index.php?pages=sport">
@@ -202,7 +206,7 @@
           </div>
           <div class="mask"></div>
         </a>
-        <div class="itemhov-img"><a href="index.php?pages=sport"><img src="images/service/service1.png" /></a></div>
+        <div class="itemhov-img"><a href="index.php?pages=sport"><img src="images/service/service1.png?v=1" /></a></div>
       </div>
       <div class="itemhov itemhov-type-line wow pulse" data-wow-delay="0.2s">
         <a class="itemhov-hover" href="index.php?pages=casino">
@@ -213,7 +217,7 @@
           </div>
           <div class="mask"></div>
         </a>
-        <div class="itemhov-img"><a href="index.php?pages=casino"><img src="images/service/service2.png" /></a></div>
+        <div class="itemhov-img"><a href="index.php?pages=casino"><img src="images/service/service2.png?v=1" /></a></div>
       </div>
       <div class="itemhov itemhov-type-line wow pulse" data-wow-delay="0.2s">
         <a class="itemhov-hover" href="index.php?pages=lotto">
@@ -224,7 +228,7 @@
           </div>
           <div class="mask"></div>
         </a>
-        <div class="itemhov-img"><a href="index.php?pages=lotto"><img src="images/service/service3.png" /></a></div>
+        <div class="itemhov-img"><a href="index.php?pages=lotto"><img src="images/service/service3.png?v=1" /></a></div>
       </div>
     </div>
   </div>

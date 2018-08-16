@@ -77,7 +77,7 @@
       </div>
       <div class="clearfix post body-main-sub">
         
-        <div class="body-main-sub-in clearfix promotion-list-sub">
+        <div class="body-main-sub-in clearfix promotion-list-sub" style="display: none;">
           <div class="col-md-12">
             <img src="images/promotion/promo.png" width="100%">
           </div>
@@ -111,7 +111,7 @@
           </div>
         </div>
         
-        <div class="body-main-sub-in clearfix promotion-list-sub">
+        <div class="body-main-sub-in clearfix promotion-list-sub" style="display: none;">
           <div class="col-md-5">
             <img src="images/promotion/1.png" class="max-w">
           </div>
@@ -125,7 +125,7 @@
           </div>
         </div>
         
-        <div class="body-main-sub-in clearfix promotion-list-sub">
+        <div class="body-main-sub-in clearfix promotion-list-sub" style="display: none;">
           <div class="col-md-5">
             <img src="images/promotion/2.png" class="max-w">
           </div>
@@ -139,7 +139,7 @@
             </div>
           </div>
         </div>
-        <div class="body-main-sub-in clearfix promotion-list-sub">
+        <div class="body-main-sub-in clearfix promotion-list-sub" style="display: none;">
           <div class="col-md-5">
             <img src="images/promotion/3.png" class="max-w">
           </div>
@@ -152,7 +152,7 @@
             </div>
           </div>
         </div>
-        <div class="body-main-sub-in clearfix promotion-list-sub">
+        <div class="body-main-sub-in clearfix promotion-list-sub" style="display: none;">
           <div class="col-md-5">
             <img src="images/promotion/4.png" class="max-w">
           </div>

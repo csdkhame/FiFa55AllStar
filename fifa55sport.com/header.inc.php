@@ -53,7 +53,7 @@ $text_news = 'FIFA55 ผู้ให้บริการ แทงบอลอ�
           <header class="header">
             <div class="header__logo">
               <a class="logo" href="index.php?pages=index">
-                <img class="img-responsive" src="images/logo/logo-top.png?v=2" alt="fifa55hd" />
+                <img class="img-responsive" src="images/logo/logo-top.png?v=5" alt="fifa55hd" />
               </a>
               <div id="mobile-header">
                 <a id="responsive-menu-button" href="#sidr-main">
