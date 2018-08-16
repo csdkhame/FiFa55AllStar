@@ -76,12 +76,47 @@
         </div>
       </div>
       <div class="clearfix post body-main-sub">
+        
+        <div class="body-main-sub-in clearfix promotion-list-sub">
+          <div class="col-md-12">
+            <img src="images/promotion/promo.png" width="100%">
+          </div>
+        </div>
+        
+        <div class="body-main-sub-in clearfix promotion-list-sub">
+          <div class="col-md-5">
+            <img src="images/promotion/promo1.png" class="max-w">
+          </div>
+          <div class="col-md-7 last">
+            <span class="bullet-no top-2">1</span> <span class="pro-subject"> ฝากขั้นต่ำ 100 บาท</span>
+            <div class="pro-descript">
+              <ul>
+                <li><span>ฝากขั้นต่ำ 100 บาท สมัครครั้งแรกรับเพิ่ม 20%</span></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        
+        <div class="body-main-sub-in clearfix promotion-list-sub">
+          <div class="col-md-5">
+            <img src="images/promotion/promo2.png" class="max-w">
+          </div>
+          <div class="col-md-7 last">
+            <span class="bullet-no top-2">2</span> <span class="pro-subject"> เติมเงินรับ 10% ของยอดฝาก</span>
+            <div class="pro-descript">
+              <ul>
+                <li><span>เติมเงินรับ 10% ของยอดฝาก</span></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        
         <div class="body-main-sub-in clearfix promotion-list-sub">
           <div class="col-md-5">
             <img src="images/promotion/1.png" class="max-w">
           </div>
           <div class="col-md-7 last">
-            <span class="bullet-no top-2">1</span> <span class="pro-subject"> รับเครดิตฟรี 20% จากการแนะนำเพื่อน</span>
+            <span class="bullet-no top-2">3</span> <span class="pro-subject"> รับเครดิตฟรี 20% จากการแนะนำเพื่อน</span>
             <div class="pro-descript">
               <ul>
                 <li><span>รับเครดิตฟรี 20% จากการแนะนำเพื่อน</span></li>
@@ -89,12 +124,13 @@
             </div>
           </div>
         </div>
+        
         <div class="body-main-sub-in clearfix promotion-list-sub">
           <div class="col-md-5">
             <img src="images/promotion/2.png" class="max-w">
           </div>
           <div class="col-md-7 last">
-            <span class="bullet-no top-2">2</span> <span class="pro-subject"> รับโบนัส 5% ทุกยอดฝาก</span>
+            <span class="bullet-no top-2">4</span> <span class="pro-subject"> รับโบนัส 5% ทุกยอดฝาก</span>
             <div class="pro-descript">
               <ul>
                 <li><span>รับโบนัส 5% ทุกยอดฝาก</span></li>
@@ -108,7 +144,7 @@
             <img src="images/promotion/3.png" class="max-w">
           </div>
           <div class="col-md-7 last">
-            <span class="bullet-no top-2">3</span> <span class="pro-subject"> สมัครครั้งแรกรับยอดฝาก 2 เท่า </span>
+            <span class="bullet-no top-2">5</span> <span class="pro-subject"> สมัครครั้งแรกรับยอดฝาก 2 เท่า </span>
             <div class="pro-descript">
               <ul>
                 <li><span>สมัครครั้งแรกรับยอดฝาก 2 เท่า</span></li>
@@ -121,7 +157,7 @@
             <img src="images/promotion/4.png" class="max-w">
           </div>
           <div class="col-md-7 last">
-            <span class="bullet-no top-2">4</span> <span class="pro-subject"> รับโปรนัส 20% เมื่อสมัครสมาชิก</span>
+            <span class="bullet-no top-2">6</span> <span class="pro-subject"> รับโปรนัส 20% เมื่อสมัครสมาชิก</span>
             <div class="pro-descript">
               <ul>
                 <li><span>รับโปรนัส 20% เมื่อสมัครสมาชิก</span></li>
