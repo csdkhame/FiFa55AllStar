@@ -8347,9 +8347,9 @@ a.btn-2:hover, input[type=button].btn-2:hover, input[type=submit].btn-2:hover, b
 }
 
  .box-highlight>div {
-    width: 260px;
+    width: 100%;
     position: relative;
-   	margin: 0 auto 20px;
+   	margin: 0 auto 30px;
 }
 
 .box-highlight>div:nth-child(5) {

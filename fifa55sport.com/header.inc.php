@@ -20,8 +20,11 @@ $text_news = 'FIFA55 ผู้ให้บริการ แทงบอลอ�
     <!-- Style Sheets -->
     <link href="font.css" rel="stylesheet" type="text/css" />
     <!-- Styling -->
-    <link href="style/core.css?v=2.6" rel="stylesheet">
+    <link href="style/core.css?v=2.6.2" rel="stylesheet">
     <style>
+  .itemhov-img img{
+  	width: 100%;
+  }  
   .asia-step-detail {
     background: #ba0000;
     border-radius: 10px;
@@ -54,6 +57,13 @@ $text_news = 'FIFA55 ผู้ให้บริการ แทงบอลอ�
 		margin-top: -7px;
 		width: 150px;
 	}
+	.tb-social{
+		width: 100%;
+	}
+	.header-widgets{
+		margin-top: -10px;
+    	margin-bottom: 5px;
+	}
   }
   .asia-main, .asia-relative, .asia-step, .asia-step-img {
     position: relative;
@@ -70,6 +80,9 @@ $text_news = 'FIFA55 ผู้ให้บริการ แทงบอลอ�
 		cursor: pointer;
 		margin-top: -7px;
 		width: 220px;
+	}
+	.tb-social{
+		
 	}
   }
   
@@ -144,7 +157,10 @@ $text_news = 'FIFA55 ผู้ให้บริการ แทงบอลอ�
               </nav>
             </div>
             <div class="header-widgets" >
-              <div class="widget-icon-box wow zoomIn" data-wow-delay="0.4s">
+            <table class="tb-social" >
+            	<tr>
+            		<td align="right">
+            			<div class="widget-icon-box wow zoomIn" data-wow-delay="0.4s">
                 <img src="images/line.png" class="contract_social" onclick="window.open('https://line.me/R/ti/p/%40fifa55hd', '_blank')" />
 <!--                <div class="icon-box" style="cursor: pointer;background-color: #fff;padding: 8px;border-radius: 20px 0px 0px 20px;">
                   <span style="margin-top: -3px;" class="icon-box-subtitle" onclick="window.open('https://line.me/R/ti/p/%40fifa55hd', '_blank')">
@@ -158,7 +174,9 @@ $text_news = 'FIFA55 ผู้ให้บริการ แทงบอลอ�
                   </span>
                 </div>-->
               </div>
-              <div class="widget-icon-box wow zoomIn" data-wow-delay="0.6s" >
+            		</td>
+            		<td align="left">
+            			<div class="widget-icon-box wow zoomIn" data-wow-delay="0.6s" >
                 <img src="images/facebook.png" class="contract_social" onclick="window.open('http://fifa55hd.com/', '_blank')" />
 <!--                <div class="icon-box" style="cursor: pointer;background-color: #fff;padding: 8px;border-radius: 20px 0px 0px 20px;margin-right: 85px;">
                   <span style="margin-top: -3px;" class="icon-box-subtitle" onclick="window.open('http://fifa55hd.com/', '_blank')">
@@ -173,6 +191,11 @@ $text_news = 'FIFA55 ผู้ให้บริการ แทงบอลอ�
                   </span>
                 </div>-->
               </div>
+            		</td>
+            	</tr>
+            </table>
+              
+              
             </div>
           </header>
         </div>

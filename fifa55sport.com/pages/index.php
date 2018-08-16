@@ -94,9 +94,10 @@
 <!--<img src="img/promo.png" />-->
   </div>
 </div>
-
- <div class="hidden-lg" >
-    	<!--<img src="images/promotion_mb/promoV3/bg.png" />-->
+<div class="hidden-lg">
+	<img src="images/promotion_mb/promoV3/promo แนวตั้ง.png" style="width: 100%" />
+</div>
+ <div class="hidden-lg" style="display: none;" >
     	<div style="background: url(images/promotion_mb/promoV3/bg.png);height: 500px;">
     		<img src="images/promotion_mb/promoV3/สมัครง่ายๆ.png" style="position: absolute;width: 200px;right: 0;" />
     		<img src="images/promotion_mb/promoV3/ข้อ1.png" style="margin-top: 55px;" />
@@ -104,9 +105,8 @@
     		<img src="images/promotion_mb/promoV3/ข้อ3.png" style="margin-left: -20px;"/>
     		<img src="images/promotion_mb/promoV3/girl.png" style="    width: 200px;position: absolute;right: -20px;top: 280px;" />
     		<img src="images/promotion_mb/promoV3/ฝากถอน 24 ชม.png" style="width: 200px;" />
-    		<img src="images/promotion_mb/promoV3/logo.png" style="width: 160px;position:  absolute;right: 0px;margin-top: 10px;" />
+    		<img src="images/promotion_mb/promoV3/logo.png" style="width: 160px;;right: 0px;margin-top: 20px;" />
     	</div>
-    	<!--<img src="images/promotion_mb/promoV3/logo.png" />-->
     </div>
 
 <div class="header-top" style="border-top: 1px solid #c1212c;">
