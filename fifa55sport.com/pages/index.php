@@ -250,13 +250,13 @@
             <div class="row" id="sec4">
               <!-- rows -->
               <style>
-                .media-left{
+                /*.media-left{
                   width: 70px;
-                }
+                }*/
                 @media (max-width: 900px){
-                  /*.media-left{
+                  .media-left{
                     display: none;
-                  }*/
+                  }
                 }
               </style>
               <div class="col-md-4">
@@ -266,79 +266,70 @@
                   </div>
                   <div class="media-body" >
                     <h4 class="media-heading"><?=$fifa55;?> เว็บคุณภาพ บริการ 24 ชม.</h4>
-                    <p style="text-align: left;">สมาชิก <?=$fifa55;?> ที่เข้ามาเดิมพันกับทางเว็บ </p>
-                    <p style="text-align: left;"><?=$fifa55;?> ไม่ต้องกังวลทางทีมงานพร้อมให้บริการ</p>
-                    <p style="text-align: left;">อย่างเต็มที่โดยไร้ปัญหา</p>
+                    <p style="text-align: left;">สมาชิก <?=$fifa55;?> ที่เข้ามาเดิมพันกับทางเว็บ <?=$fifa55;?> 
+                    ไม่ต้องกังวลทางทีมงานพร้อมให้บริการ อย่างเต็มที่โดยไร้ปัญหา</p>
+                    <!-- <p style="text-align: left;"></p> -->
                   </div>
                 </div>
                 <!--media-->
               </div>
               <div class="col-md-4">
-                <div class="media wow flipInX" data-wow-delay="0.6s">
+                <div class="media wow flipInX"  data-wow-delay="0.6s">
                   <div class="media-left">
                     <!--<i class="fa fa-futbol-o fa-4x"></i>-->
                   </div>
                   <div class="media-body" >
                     <h4 class="media-heading"><?=$fifa55;?> การเงินมั่นคง จ่ายจริง </h4>
-                    <p style="text-align: left;"><?=$fifa55;?> เว็บตรงจาก <?=$fifa55;?> </p>
-                    <p style="text-align: left;">ไม่ผ่านเอเย่นต์ การเงินมั่นคง </p>
-                    <p style="text-align: left;"> จ่ายจริง จ่ายไว จ่ายไม่อั้น</p>
+                    <p style="text-align: left;"><?=$fifa55;?> เว็บตรงจาก <?=$fifa55;?> ไม่ผ่านเอเย่นต์ การเงินมั่นคง  จ่ายจริง จ่ายไว จ่ายไม่อั้น</p>
+                    <!-- <p style="text-align: left;"> </p> -->
                   </div>
                 </div>
                 <!--media-->
               </div>
               <div class="col-md-4">
-                <div class="media wow flipInX" data-wow-delay="0.9s">
+                <div class="media wow flipInX"  data-wow-delay="0.9s">
                   <div class="media-left">
                     <!--<i class="fa fa-futbol-o fa-4x"></i>-->
                   </div>
                   <div class="media-body" >
                     <h4 class="media-heading"><?=$fifa55;?> โปรโมชั่นแจกแหลก</h4>
-                    <p style="text-align: left;"><?=$fifa55;?> เดิมพันออนไลน์สุดคุ้ม  </p>
-                    <p style="text-align: left;">กับโปรโมชั่นสนุก ๆ ลุ้นรับรางวัลใหญ่ </p>
-                    <p style="text-align: left;">ที่ทางเราจัดให้สมาชิกกันตลอด</p>
-                  </div>
-                </div>
-                <!--media-->
-              </div>
-              <div class="col-md-4" style="width:33.30%">
-                <div class="media wow flipInX" data-wow-delay="1.2s">
-                  <div class="media-left">
-                    <!--<i class="fa fa-futbol-o fa-4x"></i>-->
-                  </div>
-                  <div class="media-body" >
-                    <h4 class="media-heading"><?=$fifa55;?> รวมทุกอย่างไว้ในบัญชีเดียว</h4>
-                    <p style="text-align: left;"><?=$fifa55;?> เดิมพันกีฬาออนไลน์หลายชนิด </p>
-                    <p style="text-align: left;">ไก่ชนออนไลน์ เล่นคาสิโนแบบสดๆ </p>
-                    <p style="text-align: left;">ทั้งหมดนี้อยู่ในบัญชีใช้งาน เพียงบัญชีเดียว !!</p>
-                  </div>
-                </div>
-                <!--media-->
-              </div>
-              <div class="col-md-4">
-                <div class="media wow flipInX" data-wow-delay="1.5s">
-                  <div class="media-left">
-                    <!--<i class="fa fa-futbol-o fa-4x"></i>-->
-                  </div>
-                  <div class="media-body" >
-                    <h4 class="media-heading"><?=$fifa55;?> เล่นผ่านมือถือ ทุกที่ ทุกเวลา</h4>
-                    <p style="text-align: left;"><?=$fifa55;?> เล่นผ่านมือถือได้ตลอดทั้งวัน  </p>
-                    <p style="text-align: left;">สะดวกสบาย ประหยัดเวลา ถูกใจนักเดิมพัน</p>
-                    <p style="text-align: left;">ที่เดินทางอยู่สม่ำเสมอ</p>
+                    <p style="text-align: left;"><?=$fifa55;?> เดิมพันออนไลน์สุดคุ้ม  กับโปรโมชั่นสนุก ๆ ลุ้นรับรางวัลใหญ่ ที่ทางเราจัดให้สมาชิกกันตลอด</p>
                   </div>
                 </div>
                 <!--media-->
               </div>
               <div class="col-md-4" >
-                <div class="media wow flipInX" data-wow-delay="1.8s">
+                <div class="media wow flipInX"  data-wow-delay="1.2s">
+                  <div class="media-left">
+                    <!--<i class="fa fa-futbol-o fa-4x"></i>-->
+                  </div>
+                  <div class="media-body" >
+                    <h4 class="media-heading"><?=$fifa55;?> รวมทุกอย่างไว้ในบัญชีเดียว</h4>
+                    <p style="text-align: left;"><?=$fifa55;?> เดิมพันกีฬาออนไลน์หลายชนิด ไก่ชนออนไลน์ เล่นคาสิโนแบบสดๆ ทั้งหมดนี้อยู่ในบัญชีใช้งาน เพียงบัญชีเดียว !!</p>
+                  </div>
+                </div>
+                <!--media-->
+              </div>
+              <div class="col-md-4">
+                <div class="media wow flipInX "  data-wow-delay="1.5s">
+                  <div class="media-left">
+                    <!--<i class="fa fa-futbol-o fa-4x"></i>-->
+                  </div>
+                  <div class="media-body" >
+                    <h4 class="media-heading"><?=$fifa55;?> เล่นผ่านมือถือ ทุกที่ ทุกเวลา</h4>
+                    <p style="text-align: left;"><?=$fifa55;?> เล่นผ่านมือถือได้ตลอดทั้งวัน  สะดวกสบาย ประหยัดเวลา ถูกใจนักเดิมพันที่เดินทางอยู่สม่ำเสมอ</p>
+                  </div>
+                </div>
+                <!--media-->
+              </div>
+              <div class="col-md-4" >
+                <div class="media wow flipInX"  data-wow-delay="1.8s">
                   <div class="media-left">
                     <!--<i class="fa fa-futbol-o fa-4x"></i>-->
                   </div>
                   <div class="media-body" >
                     <h4 class="media-heading">ถ่ายทอดสดติดขอบสนามที่ <?=$fifa55;?></h4>
-                    <p style="text-align: left;">สามารถรับชมการถ่ายทอดสดฟุตบอลได้ </p>
-                    <p style="text-align: left;">ทุกลีกทั่วโลกที่ <?=$fifa55;?> คมชัดระดับ HD </p>
-                    <p style="text-align: left;">และไม่มีโฆษณามากวนใจตลอดการแข่งขันที่นี่</p>
+                    <p style="text-align: left;">สามารถรับชมการถ่ายทอดสดฟุตบอลได้ ทุกลีกทั่วโลกที่ <?=$fifa55;?> คมชัดระดับ HD และไม่มีโฆษณามากวนใจตลอดการแข่งขันที่นี่</p>
                   </div>
                 </div>
                 <!--media-->

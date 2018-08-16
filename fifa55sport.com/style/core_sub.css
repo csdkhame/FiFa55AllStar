@@ -7967,7 +7967,7 @@ rotate
 }
 
 .wrapper {
-    /*max-width: 1160px;*/
+    max-width: 1160px;
     margin: 0 auto;
     background: #fff; 
     -webkit-box-sizing: border-box;

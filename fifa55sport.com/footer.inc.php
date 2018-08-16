@@ -73,7 +73,7 @@
     <!-- /.footer -->
   </div>
   <!-- /.footer-top -->
-  <div class="footer-bottom">
+  <div class="footer-bottom" style="    margin-bottom: 45px;">
     <div class="container">
       <div class="footer-bottom__left" style="font-size: 20px;
     font-family: 'thaisanslite', Arial, sans-serif;">
@@ -96,6 +96,8 @@
 </div>
 <style>
   .me-contel {
+    height: 80px;
+    padding: 25px;
     position: fixed;
     bottom: 0;
     background: #000;
@@ -104,13 +106,13 @@
     color: #fff;
     width: 100%;
     text-align: center;
-    background: #c1212c;
+    background: #8c050b;
     background: -moz-linear-gradient(top,#c1212c 0,#c1212c 100%);
-    background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#c1212c),color-stop(100%,#c1212c));
-    background: -webkit-linear-gradient(top,#c1212c 0,#c1212c 100%);
+    background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#82050a),color-stop(100%,#85050b));
+    background: -webkit-linear-gradient(top,#8e060c 0,#8b050b 100%);
     background: -o-linear-gradient(top,#c1212c 0,#c1212c 100%);
     background: -ms-linear-gradient(top,#c1212c 0,#c1212c 100%);
-    background: linear-gradient(to bottom,#c1212c 0,#c1212c 100%);
+    background: linear-gradient(to bottom,#89050b 0,#97060d 100%);
     font-size: 20px;
     font-family: 'thaisanslite', Arial, sans-serif;
   }
@@ -155,7 +157,7 @@
 <div class="me-contel"> สมัคร FIFA55 คลิกที่นี่ <a href="https://line.me/R/ti/p/%40fifa55hd" class="btns btn-add-line my-2">Add Line</a></div>
 
 <a id="banner-pop" style="display: none; cursor: pointer;"><img class="img-responsive" src="images/fifa55-popup.html"  onclick="closeFunction();" /></a>
-<link href="style/core_sub.css?v=2.8" rel="stylesheet" type="text/css" />
+<link href="style/core_sub.css?v=2.4" rel="stylesheet" type="text/css" />
 <link href="style/style-switcher.css" rel="stylesheet" />
 <!-- FontAwesome 4.3.0 -->
 <link href="plugins/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
