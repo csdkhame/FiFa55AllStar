@@ -143,7 +143,7 @@ $text_news = 'FIFA55 ผู้ให้บริการ แทงบอลอ�
                 </ul>
               </nav>
             </div>
-            <div class="header-widgets" align="center">
+            <div class="header-widgets" >
               <div class="widget-icon-box wow zoomIn" data-wow-delay="0.4s">
                 <img src="images/line.png" class="contract_social" onclick="window.open('https://line.me/R/ti/p/%40fifa55hd', '_blank')" />
 <!--                <div class="icon-box" style="cursor: pointer;background-color: #fff;padding: 8px;border-radius: 20px 0px 0px 20px;">

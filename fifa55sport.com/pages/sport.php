@@ -37,7 +37,7 @@
         <p><span style="color:rgb(193, 33, 44)"><span style="background-color:rgb(255, 255, 255); font-family:robotomedium; font-size:42px"><span style="font-family:pslxkittithadabold">&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;</span></span></span><span style="font-family:thsarabunnewregular; font-size:26px">ในโลกปัจจุบันการเดิมพันออนไลน์มีมากมายหลายประเภท อันที่โด่งดังและคนนิยมเดิมพันกันมากที่สุดคือ&nbsp;แทงบอลออนไลน์&nbsp;ซึ่งเป็นประเภทเดิมพันออนไลน์ ที่มีให้เดิมพันทุกวัน ทุกลีกของโลก</span></p>
         <p><span style="font-family:thsarabunnewregular; font-size:26px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-family:thsarabunnewregular; font-size:26px"><?=$fifa55;?>&nbsp;เว็บแทงบอลออนไลน์ ที่พัฒนาระบบการแทงบอลให้ตอบสนองความต้องการของคนไทยมากที่สุดและดีที่สุดในขณะนี้ ระบบภายในทั้งหมดมีเมนูเป็นภาษาไทยใช้งานง่ายมาก สามารถเปิดใช้งานผ่านมือถือและอุปกรณ์ที่เชื่อมต่ออินเตอร์เน็ตได้เลย</span></p>
         <p><span style="font-family:thsarabunnewregular; font-size:26px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; นอกจาก <?=$fifa55;?> จะมีเมนูภาษาไทยแล้ว ยังมีเมนูฝากถอนผ่านทางหน้าเว็บไซด์ด้วย ซึ่งมีระบบป้องกันการแฮกที่ระบาดกันช่วงนี้หากต้องฝากถอนทางโทรศัพท์ หมดยุคที่มิจฉาชีพจะมาทำให้เงินของท่านไม่ปลอดภัยแล้ว ด้วยระบบการฝากถอนนี้การทำรายการของท่านจะรวดเร็วสำเร็จภายใน 15 นาที และความมั่นคงทางการเงินที่มีมากถึงตัวเลข 10หลัก ก็บ่งบอกได้เลยว่าท่านควรจะรีบสมัครสมาชิกกับเรา</span></p>
-        <p><span style="font-family:thsarabunnewregular; font-size:26px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; เว็บแทงบอลออนไลน์ของคนไทย เพื่อคนไทย ติดอันดับ TOP5 อย่าง&nbsp;</span><strong><a href="http://www.fifa55hd.com"><span style="color:rgb(178, 34, 34)"><span style="font-size:26px"><span style="font-family:thsarabunnewregular"><?=$fifa55;?>.COM</span></span></span></a></strong><span style="font-family:thsarabunnewregular; font-size:26px">&nbsp;หากท่านต้องการสมัคร หรือสอบถามข้อมูล กับทางเราโทร&nbsp;</span><span style="font-size:26px"><span style="font-family:thsarabunnewregular"><span style="color:rgb(0, 0, 128)"><span style="background-color:rgb(255, 255, 255)">&nbsp;</span></span>หรือ Line ID:&nbsp;<span style="color:rgb(0, 0, 128)"><strong>@<?=$fifa55;?></strong>&nbsp;&nbsp;</span></span></span></p>
+        <p><span style="font-family:thsarabunnewregular; font-size:26px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; เว็บแทงบอลออนไลน์ของคนไทย เพื่อคนไทย ติดอันดับ TOP5 อย่าง&nbsp;</span><strong><a href="http://www.fifa55hd.com"><span style="color:rgb(178, 34, 34)"><span style="font-size:26px"><span style="font-family:thsarabunnewregular"><?=$fifa55;?>.COM</span></span></span></a></strong><span style="font-family:thsarabunnewregular; font-size:26px">&nbsp;หากท่านต้องการสมัคร หรือสอบถามข้อมูล กับทางเราโทร&nbsp;</span><span style="font-size:26px"><span style="font-family:thsarabunnewregular"><span style="color:rgb(0, 0, 128)"><span style="background-color:rgb(255, 255, 255)">&nbsp;</span></span>หรือ Line ID:&nbsp;<span style="color:rgb(0, 0, 128)"><strong>@<?=$fifa55."HD";?></strong>&nbsp;&nbsp;</span></span></span></p>
         <p>&nbsp;</p>
         <p><span style="font-size:32px"><strong><span style="font-family:thsarabunnewregular">ขั้นตอนการเล่นบอลสเต็ปออนไลน์</span></strong></span></p>
         <p><span style="font-size:26px"><span style="font-family:thsarabunnewregular">1. เข้าเว็บไซต์&nbsp;<strong><a href="http://www.fifa55hd.com/" target="_blank"><span style="color:rgb(178, 34, 34)">www.fifa55.com</span></a></strong></span></span></p>
@@ -70,22 +70,7 @@
         
       </div>
     </div>
-    <!-- Start Right Sidebar  -->
-    <aside class="col-sm-12 col-md-3 screen-w-right-2">
-      <div class="widget">
-        <div class="widget-ads-r wow bounceIn" data-wow-delay="1s" style="text-align: -webkit-center; visibility: visible; animation-delay: 1s; animation-name: bounceIn;">
-          <img src="images/subpage/ads-right.png" class="img-responsive">
-        </div> 
-        <h1 class="h-text-contact contact-sub-left  wow zoomIn" style="visibility: visible; animation-name: zoomIn;">ติดต่อเรา</h1>
-        <ul class="widget-list contact-list">
-          <li class="wow zoomInRight" data-wow-delay="0.4s" onclick="window.open('https://line.me/ti/p/@fifa55sport', '_blank')" style="visibility: visible; animation-delay: 0.4s; animation-name: zoomInRight;"><img src="http://www.fifa55hd.com/images/contact/svg/line.svg" style="width: 40px;"> 		<span class="contact-list-style">@fifa55sport</span></li>
-          <li class="wow zoomInRight" data-wow-delay="0.6s" onclick="window.open('https://www.facebook.com/fifa55sport', '_blank')" style="visibility: visible; animation-delay: 0.6s; animation-name: zoomInRight;"><img src="http://www.fifa55hd.com/images/contact/svg/facebook.svg" style="width: 40px;"> 	<span class="contact-list-style"> fifa55sport</span></li>
-          <li class="wow zoomInRight" data-wow-delay="1s" style="visibility: visible; animation-delay: 1s; animation-name: zoomInRight;"><img src="http://www.fifa55hd.com/images/contact/svg/internet.svg" style="width: 40px;"> 	<span class="contact-list-style">www.fifa55sport.com</span></li>
-        </ul>
-      </div>	 
-      <div>
-      </div>  			
-    </aside>
+    <?php include("contract.inc.php") ?>
   </div>
 </div>
 <br />
