@@ -8510,11 +8510,11 @@ a.btn-2:hover, input[type=button].btn-2:hover, input[type=submit].btn-2:hover, b
 	}
   }
   @media (min-width:900px){
-    .promotion-theme{
+    /*.promotion-theme{
 	  	background: url('../images/promotion/bg-lead.png');
 		background-repeat: no-repeat;
 	  	background-size: 100%;
-	}
+	}*/
   }
 /*.promotion-theme{
 	background: url('../images/promotion/bg-lead.png');

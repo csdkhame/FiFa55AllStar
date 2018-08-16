@@ -40,13 +40,13 @@
     }
   }
 </style>
-<div class="outter-wrapper body-wrapper promotion-theme" style=" background-color: #000000;   /*background: url(images/bg_index.png);*/
+<div class="outter-wrapper body-wrapper promotion-theme" style="    background: url(images/promo-bg.png);
     background-repeat: no-repeat;
     background-size: 100%;">
   <div class="wrapper section-promotion clearfix" style="    padding-bottom: 0px; margin-top: 0px;">
     <div class="row">
       <div class="col-md-12">
-        <img src="images/promo_index.png" width="100%" style="margin-top: -10px;" >
+        <img src="images/promotion/promoFreebg.png" width="100%" style="margin-top: -10px;" >
       </div>
       
 

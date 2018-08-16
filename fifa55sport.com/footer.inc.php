@@ -155,7 +155,7 @@
 <div class="me-contel"> สมัคร FIFA55 คลิกที่นี่ <a href="https://line.me/R/ti/p/%40fifa55hd" class="btns btn-add-line my-2">Add Line</a></div>
 
 <a id="banner-pop" style="display: none; cursor: pointer;"><img class="img-responsive" src="images/fifa55-popup.html"  onclick="closeFunction();" /></a>
-<link href="style/core_sub.css?v=2.2" rel="stylesheet" type="text/css" />
+<link href="style/core_sub.css?v=2.3" rel="stylesheet" type="text/css" />
 <link href="style/style-switcher.css" rel="stylesheet" />
 <!-- FontAwesome 4.3.0 -->
 <link href="plugins/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
