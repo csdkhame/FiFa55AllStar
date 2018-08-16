@@ -91,7 +91,7 @@ $text_news = 'FIFA55 ผู้ให้บริการ แทงบอลอ�
             </div>
             <div class="header-widgets">
               <div class="widget-icon-box wow zoomIn" data-wow-delay="0.4s">
-                <img src="images/line.png" width="141" style="cursor: pointer;" onclick="window.open('https://line.me/R/ti/p/%40fifa55hd', '_blank')" />
+                <img src="images/line.png" width="181" style="cursor: pointer;" onclick="window.open('https://line.me/R/ti/p/%40fifa55hd', '_blank')" />
 <!--                <div class="icon-box" style="cursor: pointer;background-color: #fff;padding: 8px;border-radius: 20px 0px 0px 20px;">
                   <span style="margin-top: -3px;" class="icon-box-subtitle" onclick="window.open('https://line.me/R/ti/p/%40fifa55hd', '_blank')">
                     <h4 class="icon-box-title" style="
@@ -105,7 +105,7 @@ $text_news = 'FIFA55 ผู้ให้บริการ แทงบอลอ�
                 </div>-->
               </div>
               <div class="widget-icon-box wow zoomIn" data-wow-delay="0.6s" >
-                <img src="images/facebook.png" width="141" style="cursor: pointer;" onclick="window.open('http://fifa55hd.com/', '_blank')" />
+                <img src="images/facebook.png" width="181" style="cursor: pointer;" onclick="window.open('http://fifa55hd.com/', '_blank')" />
 <!--                <div class="icon-box" style="cursor: pointer;background-color: #fff;padding: 8px;border-radius: 20px 0px 0px 20px;margin-right: 85px;">
                   <span style="margin-top: -3px;" class="icon-box-subtitle" onclick="window.open('http://fifa55hd.com/', '_blank')">
                     <h4 class="icon-box-title" style="
