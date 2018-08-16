@@ -3,8 +3,9 @@
     background-repeat: no-repeat;
     background-size: 100%;    background-size: 1920px 490px;">
     <img src="images/promo_index.png" width="100%" class="hidden-md">
-    <div class="hidden-lg"></div>
+    <div class="hidden-lg">
     <img src="images/promotion_mb/v2/promo.png" />
+    </div>
   <div class="wrapper section-promotion clearfix" style="    padding-bottom: 0px; margin-top: 0px; display: none;">
     <div class="row">
       <div class="">
