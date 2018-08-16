@@ -1,7 +1,7 @@
 <div class="outter-wrapper paralax-block" style="padding-top: 0px; padding-bottom: 3em; margin-top: 0px; background: linear-gradient(rgba(25, 25, 25, 0.8), rgba(25, 25, 25, 0.8)) 0px 59.25px / cover, url(&quot;img/next-match-bg.jpg&quot;);" data-stellar-background-ratio="0.75">		
   <div class="wrapper clearfix wp-head">
     <h1 style="font-size: 45px; font-family: 'PSLxKittithadabold'; padding: 0;">โปรโมชั่น</h1>
-    <p class="col-2-2" style="padding: 0; margin: 0; font-family: 'THSarabunNewRegular'; font-size: 30px; color: #c7e0e8;">"<?=$fifa55Main;?> โปรโมชั่นพิเศษ มีการอัพเดทใหม่ทุกเดือน เพื่อตอบสนองความต้องการของคุณ"</p>
+    <p class="col-2-2" style="padding: 0; margin: 0; font-family: 'THSarabunNewRegular'; font-size: 30px; color: #c7e0e8;">"<?=$fifa55;?> โปรโมชั่นพิเศษ มีการอัพเดทใหม่ทุกเดือน เพื่อตอบสนองความต้องการของคุณ"</p>
   </div>
 </div>
 <div class="header-top" style="border-top: 1px solid #c1212c;">
@@ -9,7 +9,7 @@
     <!-- Top Left -->
     <div class="top-left">
       <ul class="clearfix">
-        <li style="font-size: 18px;"> &nbsp;&nbsp;<?=$fifa55Main;?>   MESSAGE </li>
+        <li style="font-size: 18px;"> &nbsp;&nbsp;<?=$fifa55;?>   MESSAGE </li>
       </ul>
     </div>
     <!-- Top Right -->
@@ -27,7 +27,7 @@
   </div>
 </div>
 <div class="wrapper " style="background-color: #ccc0; padding: 0px;">
-  <h4>โปรโมชั่นแนะนำ สำหรับ <?=$fifa55Main;?></h4>
+  <h4>โปรโมชั่นแนะนำ สำหรับ <?=$fifa55;?></h4>
 </div>
 <div class="outter-wrapper body-wrapper">
   <div class="wrapper blog-roll ad-pad clearfix">

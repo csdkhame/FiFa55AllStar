@@ -1,60 +1,9 @@
-<style>
-  .asia-step-detail {
-    background: #ba0000;
-    border-radius: 10px;
-  }
 
-  .pl-sm-5 {
-    padding-left: 3rem!important;
-  }
-  .py-3 {
-    padding-top: 1rem!important;
-    padding-bottom: 1rem!important;
-  }
-  .px-3 {
-    padding-right: 1rem!important;
-    padding-left: 1rem!important;
-  }
-  .ml-3 {
-    margin-left: 1rem!important;
-  }
-  *, ::after, ::before {
-    -webkit-box-sizing: inherit;
-    box-sizing: inherit;
-  }
-  @media (max-width: 900px){
-    .hidden-md{
-      display: none;
-    }
-    .contract_social{
-		cursor: pointer;
-		margin-top: -7px;
-		width: 150px;
-	}
-  }
-  .asia-main, .asia-relative, .asia-step, .asia-step-img {
-    position: relative;
-  }
-
-  .asia-link-header, .asia-step-img {
-    text-align: center;
-  }
-  @media (min-width:900px){
-    .hidden-lg{
-      display:none!important
-    }
-    .contract_social{
-		cursor: pointer;
-		margin-top: -7px;
-		width: 220px;
-	}
-  }
-  
-</style>
 <div class="outter-wrapper body-wrapper promotion-theme" style=" /*background-color: #000000;*/ background: url(images/bg_index.png);
     background-repeat: no-repeat;
     background-size: 100%;    background-size: 1920px 490px;">
-    <img src="images/promo_index.png" width="100%" style="   " >
+    <img src="images/promo_index.png" width="100%" class="hidden-md">
+    <img src="images/promotion_mb/promo_phone.png" width="100%" class="hidden-lg" >
   <div class="wrapper section-promotion clearfix" style="    padding-bottom: 0px; margin-top: 0px; display: none;">
     <div class="row">
       <div class="">

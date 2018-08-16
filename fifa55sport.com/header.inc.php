@@ -21,6 +21,59 @@ $text_news = 'FIFA55 ผู้ให้บริการ แทงบอลอ�
     <link href="font.css" rel="stylesheet" type="text/css" />
     <!-- Styling -->
     <link href="style/core.css?v=2.6" rel="stylesheet">
+    <style>
+  .asia-step-detail {
+    background: #ba0000;
+    border-radius: 10px;
+  }
+
+  .pl-sm-5 {
+    padding-left: 3rem!important;
+  }
+  .py-3 {
+    padding-top: 1rem!important;
+    padding-bottom: 1rem!important;
+  }
+  .px-3 {
+    padding-right: 1rem!important;
+    padding-left: 1rem!important;
+  }
+  .ml-3 {
+    margin-left: 1rem!important;
+  }
+  *, ::after, ::before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+  }
+  @media (max-width: 900px){
+    .hidden-md{
+      display: none;
+    }
+    .contract_social{
+		cursor: pointer;
+		margin-top: -7px;
+		width: 150px;
+	}
+  }
+  .asia-main, .asia-relative, .asia-step, .asia-step-img {
+    position: relative;
+  }
+
+  .asia-link-header, .asia-step-img {
+    text-align: center;
+  }
+  @media (min-width:900px){
+    .hidden-lg{
+      display:none !important;
+    }
+    .contract_social{
+		cursor: pointer;
+		margin-top: -7px;
+		width: 220px;
+	}
+  }
+  
+</style>
   </head>
   <body>
     <!-- MAIN PAGE CONTAINER -->
@@ -90,7 +143,7 @@ $text_news = 'FIFA55 ผู้ให้บริการ แทงบอลอ�
                 </ul>
               </nav>
             </div>
-            <div class="header-widgets">
+            <div class="header-widgets" align="center">
               <div class="widget-icon-box wow zoomIn" data-wow-delay="0.4s">
                 <img src="images/line.png" class="contract_social" onclick="window.open('https://line.me/R/ti/p/%40fifa55hd', '_blank')" />
 <!--                <div class="icon-box" style="cursor: pointer;background-color: #fff;padding: 8px;border-radius: 20px 0px 0px 20px;">

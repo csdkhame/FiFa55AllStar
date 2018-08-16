@@ -9,7 +9,7 @@
     <!-- Top Left -->
     <div class="top-left">
       <ul class="clearfix">
-        <li style="font-size: 18px;"> &nbsp;&nbsp;<?=$fifa55Main;?>   MESSAGE </li>
+        <li style="font-size: 18px;"> &nbsp;&nbsp;<?=$fifa55;?>   MESSAGE </li>
       </ul>
     </div>
     <!-- Top Right -->
