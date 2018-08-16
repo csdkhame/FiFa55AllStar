@@ -237,7 +237,7 @@
 </div>
 <div class="section-all-service clearfix">
   <div class="col-md-12 last no-padding">
-    <img class="img-responsive wow flash" data-wow-delay="2s" src="images/service/all-service.jpg">
+    <img class="img-responsive wow flash" data-wow-delay="2s" src="images/service/all-service2.png"> 
   </div>
 </div>
 <div class="outter-wrapper body-wrapper wrapper-feature" id="better">
